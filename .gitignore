@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+results/*.csv
+results/*.json
+results/*.pdf
+results/*.png
+data/problems.json
+
+# Cloned ACL style repo (acl.sty and acl_natbib.bst are copied into this dir)
+paper/acl-srw/_acl_styles/

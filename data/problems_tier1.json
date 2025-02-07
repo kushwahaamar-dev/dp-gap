@@ -1,0 +1,2104 @@
+{
+  "problems": [
+    {
+      "id": "R01_P01",
+      "rule_id": "R01",
+      "text": "If it is raining, then the streets are wet. It is raining. What can you conclude?",
+      "ground_truth": "The streets are wet.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P02",
+      "rule_id": "R01",
+      "text": "If a student studies hard, they will pass the exam. Alice studied hard. What follows?",
+      "ground_truth": "Alice will pass the exam.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P03",
+      "rule_id": "R01",
+      "text": "If the temperature drops below 0°C, water freezes. The temperature dropped to -5°C. What can you conclude?",
+      "ground_truth": "Water freezes.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P04",
+      "rule_id": "R01",
+      "text": "If you press the button, the light turns on. You pressed the button. What happens?",
+      "ground_truth": "The light turns on.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P05",
+      "rule_id": "R01",
+      "text": "If it is a weekday, the office is open. Today is Wednesday. What follows?",
+      "ground_truth": "The office is open.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P06",
+      "rule_id": "R01",
+      "text": "If the alarm sounds, employees must evacuate. The alarm is sounding. What must happen?",
+      "ground_truth": "Employees must evacuate.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P07",
+      "rule_id": "R01",
+      "text": "If a number is divisible by 4, it is divisible by 2. The number 12 is divisible by 4. What can you conclude?",
+      "ground_truth": "12 is divisible by 2.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P08",
+      "rule_id": "R01",
+      "text": "If the cake is in the oven for 30 minutes, it is done. The cake has been in the oven for 30 minutes. What follows?",
+      "ground_truth": "The cake is done.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P09",
+      "rule_id": "R01",
+      "text": "If Sam gets an A on every test, Sam makes the honor roll. Sam got an A on every test. What can you conclude?",
+      "ground_truth": "Sam makes the honor roll.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P10",
+      "rule_id": "R01",
+      "text": "If the battery is charged, the phone works. The battery is charged. What follows?",
+      "ground_truth": "The phone works.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P11",
+      "rule_id": "R01",
+      "text": "If a plant receives sunlight, it grows. This plant receives sunlight. What can you conclude?",
+      "ground_truth": "The plant grows.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P12",
+      "rule_id": "R01",
+      "text": "If it is Sunday, the library is closed. It is Sunday. What follows?",
+      "ground_truth": "The library is closed.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P13",
+      "rule_id": "R01",
+      "text": "If a figure has three sides, it is a triangle. This figure has three sides. What can you conclude?",
+      "ground_truth": "It is a triangle.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P14",
+      "rule_id": "R01",
+      "text": "If the dog barks, the neighbors complain. The dog is barking. What follows?",
+      "ground_truth": "The neighbors complain.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P15",
+      "rule_id": "R01",
+      "text": "If Jordan finishes the report, the boss is satisfied. Jordan finished the report. What can you conclude?",
+      "ground_truth": "The boss is satisfied.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P16",
+      "rule_id": "R01",
+      "text": "If traffic is heavy, commuters are late. Traffic is heavy today. What follows?",
+      "ground_truth": "Commuters are late.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P17",
+      "rule_id": "R01",
+      "text": "If the code compiles, the tests can run. The code compiled successfully. What can you conclude?",
+      "ground_truth": "The tests can run.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P18",
+      "rule_id": "R01",
+      "text": "If the river floods, the road closes. The river has flooded. What follows?",
+      "ground_truth": "The road closes.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P19",
+      "rule_id": "R01",
+      "text": "If an element is a noble gas, it is chemically inert. Neon is a noble gas. What can you conclude?",
+      "ground_truth": "Neon is chemically inert.",
+      "distractors": []
+    },
+    {
+      "id": "R01_P20",
+      "rule_id": "R01",
+      "text": "If the meeting starts at 9, participants must arrive by 8:45. The meeting starts at 9. What follows?",
+      "ground_truth": "Participants must arrive by 8:45.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P01",
+      "rule_id": "R02",
+      "text": "If it is raining, then the ground is wet. The ground is not wet. What can you conclude?",
+      "ground_truth": "It is not raining.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P02",
+      "rule_id": "R02",
+      "text": "If Alice is home, the lights are on. The lights are not on. What follows?",
+      "ground_truth": "Alice is not home.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P03",
+      "rule_id": "R02",
+      "text": "If the package was delivered, there is a notification. There is no notification. What can you conclude?",
+      "ground_truth": "The package was not delivered.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P04",
+      "rule_id": "R02",
+      "text": "If the engine is running, there is noise. There is no noise. What follows?",
+      "ground_truth": "The engine is not running.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P05",
+      "rule_id": "R02",
+      "text": "If Bob passed the exam, he is celebrating. Bob is not celebrating. What can you conclude?",
+      "ground_truth": "Bob did not pass the exam.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P06",
+      "rule_id": "R02",
+      "text": "If a number is prime and greater than 2, it is odd. The number is not odd. What follows about a number greater than 2?",
+      "ground_truth": "The number is not prime.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P07",
+      "rule_id": "R02",
+      "text": "If the store is open, the sign says 'Open'. The sign does not say 'Open'. What can you conclude?",
+      "ground_truth": "The store is not open.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P08",
+      "rule_id": "R02",
+      "text": "If the plant is watered, it does not wilt. The plant is wilting. What follows?",
+      "ground_truth": "The plant was not watered.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P09",
+      "rule_id": "R02",
+      "text": "If Sam took the bus, Sam arrived by 9 AM. Sam did not arrive by 9 AM. What can you conclude?",
+      "ground_truth": "Sam did not take the bus.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P10",
+      "rule_id": "R02",
+      "text": "If the file was saved, there is a backup. There is no backup. What follows?",
+      "ground_truth": "The file was not saved.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P11",
+      "rule_id": "R02",
+      "text": "If it snowed, schools are closed. Schools are not closed. What can you conclude?",
+      "ground_truth": "It did not snow.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P12",
+      "rule_id": "R02",
+      "text": "If the bird is a penguin, it cannot fly. This bird can fly. What follows?",
+      "ground_truth": "The bird is not a penguin.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P13",
+      "rule_id": "R02",
+      "text": "If Quinn studied French, Quinn can read the menu. Quinn cannot read the menu. What can you conclude?",
+      "ground_truth": "Quinn did not study French.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P14",
+      "rule_id": "R02",
+      "text": "If the software is updated, the bug is fixed. The bug is not fixed. What follows?",
+      "ground_truth": "The software is not updated.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P15",
+      "rule_id": "R02",
+      "text": "If the concert sold out, no tickets are available. Tickets are available. What can you conclude?",
+      "ground_truth": "The concert did not sell out.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P16",
+      "rule_id": "R02",
+      "text": "If the patient took the medicine, the fever subsided. The fever did not subside. What follows?",
+      "ground_truth": "The patient did not take the medicine.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P17",
+      "rule_id": "R02",
+      "text": "If electricity is flowing, the circuit is closed. The circuit is not closed. What can you conclude?",
+      "ground_truth": "Electricity is not flowing.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P18",
+      "rule_id": "R02",
+      "text": "If the volcano erupted, ash covers the town. Ash does not cover the town. What follows?",
+      "ground_truth": "The volcano did not erupt.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P19",
+      "rule_id": "R02",
+      "text": "If Kai ran the marathon, Kai is tired. Kai is not tired. What can you conclude?",
+      "ground_truth": "Kai did not run the marathon.",
+      "distractors": []
+    },
+    {
+      "id": "R02_P20",
+      "rule_id": "R02",
+      "text": "If the door is locked, we cannot enter. We can enter. What follows?",
+      "ground_truth": "The door is not locked.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P01",
+      "rule_id": "R03",
+      "text": "If it rains, the ground gets wet. If the ground gets wet, the flowers bloom. What can you conclude if it rains?",
+      "ground_truth": "The flowers bloom.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P02",
+      "rule_id": "R03",
+      "text": "If Alice studies, she passes. If she passes, she graduates. What follows if Alice studies?",
+      "ground_truth": "Alice graduates.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P03",
+      "rule_id": "R03",
+      "text": "If the alarm rings, people wake up. If people wake up, they eat breakfast. What can you conclude if the alarm rings?",
+      "ground_truth": "People eat breakfast.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P04",
+      "rule_id": "R03",
+      "text": "If the economy grows, jobs increase. If jobs increase, unemployment falls. What follows if the economy grows?",
+      "ground_truth": "Unemployment falls.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P05",
+      "rule_id": "R03",
+      "text": "If it is cold, the lake freezes. If the lake freezes, people go skating. What can you conclude if it is cold?",
+      "ground_truth": "People go skating.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P06",
+      "rule_id": "R03",
+      "text": "If Bob exercises, he gets fit. If he gets fit, he runs faster. What follows if Bob exercises?",
+      "ground_truth": "Bob runs faster.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P07",
+      "rule_id": "R03",
+      "text": "If the code passes review, it is merged. If it is merged, it goes to production. What can you conclude if the code passes review?",
+      "ground_truth": "It goes to production.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P08",
+      "rule_id": "R03",
+      "text": "If the sun sets, it gets dark. If it gets dark, the streetlights turn on. What follows if the sun sets?",
+      "ground_truth": "The streetlights turn on.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P09",
+      "rule_id": "R03",
+      "text": "If demand rises, prices rise. If prices rise, consumers complain. What can you conclude if demand rises?",
+      "ground_truth": "Consumers complain.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P10",
+      "rule_id": "R03",
+      "text": "If Sam eats sugar, Sam gets energy. If Sam gets energy, Sam stays awake. What follows if Sam eats sugar?",
+      "ground_truth": "Sam stays awake.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P11",
+      "rule_id": "R03",
+      "text": "If you plant seeds, they sprout. If they sprout, you have a garden. What can you conclude if you plant seeds?",
+      "ground_truth": "You have a garden.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P12",
+      "rule_id": "R03",
+      "text": "If the team wins, they qualify. If they qualify, they go to nationals. What follows if the team wins?",
+      "ground_truth": "They go to nationals.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P13",
+      "rule_id": "R03",
+      "text": "If Mia reads a lot, Mia gains knowledge. If Mia gains knowledge, Mia gets promoted. What can you conclude if Mia reads a lot?",
+      "ground_truth": "Mia gets promoted.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P14",
+      "rule_id": "R03",
+      "text": "If traffic increases, pollution increases. If pollution increases, health problems rise. What follows if traffic increases?",
+      "ground_truth": "Health problems rise.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P15",
+      "rule_id": "R03",
+      "text": "If the password is correct, access is granted. If access is granted, data is visible. What can you conclude if the password is correct?",
+      "ground_truth": "Data is visible.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P16",
+      "rule_id": "R03",
+      "text": "If a star collapses, it forms a black hole. If a black hole forms, light cannot escape. What follows if a star collapses?",
+      "ground_truth": "Light cannot escape.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P17",
+      "rule_id": "R03",
+      "text": "If it is spring, flowers bloom. If flowers bloom, bees appear. What can you conclude if it is spring?",
+      "ground_truth": "Bees appear.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P18",
+      "rule_id": "R03",
+      "text": "If Leo practices piano, Leo improves. If Leo improves, Leo performs at the recital. What follows if Leo practices piano?",
+      "ground_truth": "Leo performs at the recital.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P19",
+      "rule_id": "R03",
+      "text": "If the paper is accepted, it is published. If it is published, it gets citations. What can you conclude if the paper is accepted?",
+      "ground_truth": "It gets citations.",
+      "distractors": []
+    },
+    {
+      "id": "R03_P20",
+      "rule_id": "R03",
+      "text": "If you heat ice, it melts. If it melts, you get water. What follows if you heat ice?",
+      "ground_truth": "You get water.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P01",
+      "rule_id": "R04",
+      "text": "Either it is sunny or it is cloudy. It is not sunny. What can you conclude?",
+      "ground_truth": "It is cloudy.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P02",
+      "rule_id": "R04",
+      "text": "Either Alice or Bob broke the vase. Alice did not break the vase. What follows?",
+      "ground_truth": "Bob broke the vase.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P03",
+      "rule_id": "R04",
+      "text": "The answer is either 42 or 57. The answer is not 57. What can you conclude?",
+      "ground_truth": "The answer is 42.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P04",
+      "rule_id": "R04",
+      "text": "Either the train or the bus goes to the airport. The train does not go to the airport. What follows?",
+      "ground_truth": "The bus goes to the airport.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P05",
+      "rule_id": "R04",
+      "text": "Sam is in either New York or London. Sam is not in New York. What can you conclude?",
+      "ground_truth": "Sam is in London.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P06",
+      "rule_id": "R04",
+      "text": "Either the server crashed or the network is down. The server did not crash. What follows?",
+      "ground_truth": "The network is down.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P07",
+      "rule_id": "R04",
+      "text": "Either math or science is scheduled for Monday. Math is not scheduled for Monday. What can you conclude?",
+      "ground_truth": "Science is scheduled for Monday.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P08",
+      "rule_id": "R04",
+      "text": "Either the lock is jammed or the key is wrong. The lock is not jammed. What follows?",
+      "ground_truth": "The key is wrong.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P09",
+      "rule_id": "R04",
+      "text": "Either Riley drives or takes the subway. Riley does not drive. What can you conclude?",
+      "ground_truth": "Riley takes the subway.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P10",
+      "rule_id": "R04",
+      "text": "Either the test passed or there is a bug. The test passed. What can you conclude about whether there is a bug?",
+      "ground_truth": "We cannot conclude anything additional from this alone.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P11",
+      "rule_id": "R04",
+      "text": "Either the movie starts at 7 or at 9. It does not start at 7. What follows?",
+      "ground_truth": "The movie starts at 9.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P12",
+      "rule_id": "R04",
+      "text": "Either we go hiking or swimming. We do not go hiking. What can you conclude?",
+      "ground_truth": "We go swimming.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P13",
+      "rule_id": "R04",
+      "text": "Either Zoe or Kai will present first. Zoe will not present first. What follows?",
+      "ground_truth": "Kai will present first.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P14",
+      "rule_id": "R04",
+      "text": "Either the cat is inside or outside. The cat is not inside. What can you conclude?",
+      "ground_truth": "The cat is outside.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P15",
+      "rule_id": "R04",
+      "text": "Either Python or Java was used. Python was not used. What follows?",
+      "ground_truth": "Java was used.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P16",
+      "rule_id": "R04",
+      "text": "Either the hypothesis is correct or the experiment was flawed. The hypothesis is not correct. What can you conclude?",
+      "ground_truth": "The experiment was flawed.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P17",
+      "rule_id": "R04",
+      "text": "Either the flight is on time or delayed. The flight is not on time. What follows?",
+      "ground_truth": "The flight is delayed.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P18",
+      "rule_id": "R04",
+      "text": "Either the painting is original or a forgery. It is not original. What can you conclude?",
+      "ground_truth": "The painting is a forgery.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P19",
+      "rule_id": "R04",
+      "text": "Either renewable or fossil fuel powers this city. Fossil fuel does not power it. What follows?",
+      "ground_truth": "Renewable energy powers this city.",
+      "distractors": []
+    },
+    {
+      "id": "R04_P20",
+      "rule_id": "R04",
+      "text": "Either Quinn or Piper won the prize. Quinn did not win. What can you conclude?",
+      "ground_truth": "Piper won the prize.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P01",
+      "rule_id": "R05",
+      "text": "'If it is a dog, it is an animal.' What is the contrapositive of this statement?",
+      "ground_truth": "If it is not an animal, then it is not a dog.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P02",
+      "rule_id": "R05",
+      "text": "'If it rains, the picnic is cancelled.' What is the contrapositive?",
+      "ground_truth": "If the picnic is not cancelled, then it is not raining.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P03",
+      "rule_id": "R05",
+      "text": "'If you are a citizen, you can vote.' State the contrapositive.",
+      "ground_truth": "If you cannot vote, then you are not a citizen.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P04",
+      "rule_id": "R05",
+      "text": "'If the shape is a square, it has four equal sides.' What is the contrapositive?",
+      "ground_truth": "If it does not have four equal sides, then it is not a square.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P05",
+      "rule_id": "R05",
+      "text": "'If the battery is dead, the car won't start.' State the contrapositive.",
+      "ground_truth": "If the car starts, then the battery is not dead.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P06",
+      "rule_id": "R05",
+      "text": "'If Alice passed, she studied.' What is the contrapositive?",
+      "ground_truth": "If Alice did not study, then she did not pass.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P07",
+      "rule_id": "R05",
+      "text": "'If a number is even, it is divisible by 2.' What is the contrapositive?",
+      "ground_truth": "If a number is not divisible by 2, then it is not even.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P08",
+      "rule_id": "R05",
+      "text": "'If the light is green, you may proceed.' State the contrapositive.",
+      "ground_truth": "If you may not proceed, then the light is not green.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P09",
+      "rule_id": "R05",
+      "text": "'If there is smoke, there is fire.' What is the contrapositive?",
+      "ground_truth": "If there is no fire, then there is no smoke.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P10",
+      "rule_id": "R05",
+      "text": "'If it is winter, it is cold.' State the contrapositive.",
+      "ground_truth": "If it is not cold, then it is not winter.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P11",
+      "rule_id": "R05",
+      "text": "'If you eat too much sugar, you gain weight.' What is the contrapositive?",
+      "ground_truth": "If you do not gain weight, then you did not eat too much sugar.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P12",
+      "rule_id": "R05",
+      "text": "'If the homework is done, the student may play.' State the contrapositive.",
+      "ground_truth": "If the student may not play, then the homework is not done.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P13",
+      "rule_id": "R05",
+      "text": "'If X > 10, then X > 5.' What is the contrapositive?",
+      "ground_truth": "If X is not greater than 5, then X is not greater than 10.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P14",
+      "rule_id": "R05",
+      "text": "'If Leo is a doctor, Leo has a medical degree.' State the contrapositive.",
+      "ground_truth": "If Leo does not have a medical degree, then Leo is not a doctor.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P15",
+      "rule_id": "R05",
+      "text": "'If it is a mammal, it is warm-blooded.' What is the contrapositive?",
+      "ground_truth": "If it is not warm-blooded, then it is not a mammal.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P16",
+      "rule_id": "R05",
+      "text": "'If the door is open, anyone can enter.' State the contrapositive.",
+      "ground_truth": "If no one can enter, then the door is not open.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P17",
+      "rule_id": "R05",
+      "text": "'If she is running, her heart rate is elevated.' What is the contrapositive?",
+      "ground_truth": "If her heart rate is not elevated, then she is not running.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P18",
+      "rule_id": "R05",
+      "text": "'If the program is correct, it produces no errors.' State the contrapositive.",
+      "ground_truth": "If the program produces errors, then it is not correct.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P19",
+      "rule_id": "R05",
+      "text": "'If you are in Paris, you are in France.' What is the contrapositive?",
+      "ground_truth": "If you are not in France, then you are not in Paris.",
+      "distractors": []
+    },
+    {
+      "id": "R05_P20",
+      "rule_id": "R05",
+      "text": "'If Kai passes all courses, Kai graduates.' State the contrapositive.",
+      "ground_truth": "If Kai does not graduate, then Kai did not pass all courses.",
+      "distractors": []
+    },
+    {
+      "id": "R06_P01",
+      "rule_id": "R06",
+      "text": "It is NOT the case that both Alice and Bob passed. What is an equivalent statement?",
+      "ground_truth": "Alice did not pass, or Bob did not pass (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P02",
+      "rule_id": "R06",
+      "text": "It is false that the car is fast AND fuel-efficient. Restate using De Morgan's Law.",
+      "ground_truth": "The car is not fast, or it is not fuel-efficient (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P03",
+      "rule_id": "R06",
+      "text": "It is not true that both the printer and scanner work. What follows by De Morgan's Law?",
+      "ground_truth": "The printer does not work, or the scanner does not work (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P04",
+      "rule_id": "R06",
+      "text": "'Not (P and Q)' is equivalent to what?",
+      "ground_truth": "Not P, or not Q.",
+      "distractors": []
+    },
+    {
+      "id": "R06_P05",
+      "rule_id": "R06",
+      "text": "It is not the case that Sam is tall and strong. What can you conclude?",
+      "ground_truth": "Sam is not tall, or Sam is not strong (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P06",
+      "rule_id": "R06",
+      "text": "The statement 'it is false that both conditions A and B hold' is equivalent to what?",
+      "ground_truth": "Condition A does not hold, or condition B does not hold (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P07",
+      "rule_id": "R06",
+      "text": "Not (the sky is blue AND the grass is green). Rewrite this.",
+      "ground_truth": "The sky is not blue, or the grass is not green (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P08",
+      "rule_id": "R06",
+      "text": "It is not the case that the test is easy and short. What follows?",
+      "ground_truth": "The test is not easy, or the test is not short (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P09",
+      "rule_id": "R06",
+      "text": "'Not (raining and cold)' — rewrite using De Morgan's Law.",
+      "ground_truth": "It is not raining, or it is not cold (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P10",
+      "rule_id": "R06",
+      "text": "It is false that both X and Y are positive. What can you conclude?",
+      "ground_truth": "X is not positive, or Y is not positive (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P11",
+      "rule_id": "R06",
+      "text": "Not (the restaurant is cheap AND good). What does this mean?",
+      "ground_truth": "The restaurant is not cheap, or not good (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P12",
+      "rule_id": "R06",
+      "text": "It is not the case that Mia is a singer and a dancer. What follows?",
+      "ground_truth": "Mia is not a singer, or Mia is not a dancer (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P13",
+      "rule_id": "R06",
+      "text": "Not (the software is fast AND reliable). Restate.",
+      "ground_truth": "The software is not fast, or not reliable (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P14",
+      "rule_id": "R06",
+      "text": "It is false that both Leo and Zoe were invited. What can you conclude?",
+      "ground_truth": "Leo was not invited, or Zoe was not invited (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P15",
+      "rule_id": "R06",
+      "text": "Not (it is Monday AND sunny). Rewrite.",
+      "ground_truth": "It is not Monday, or it is not sunny (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P16",
+      "rule_id": "R06",
+      "text": "It is not the case that the answer is correct and complete. What follows?",
+      "ground_truth": "The answer is not correct, or not complete (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P17",
+      "rule_id": "R06",
+      "text": "Not (the room is clean AND quiet). What does this mean?",
+      "ground_truth": "The room is not clean, or not quiet (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P18",
+      "rule_id": "R06",
+      "text": "It is false that both flights are on time. What can you conclude?",
+      "ground_truth": "The first flight is not on time, or the second is not on time (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P19",
+      "rule_id": "R06",
+      "text": "Not (A ∧ B) where A='the cat is black' and B='the cat is large'. Restate.",
+      "ground_truth": "The cat is not black, or the cat is not large (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R06_P20",
+      "rule_id": "R06",
+      "text": "It is not the case that Quinn passed math and science. What follows?",
+      "ground_truth": "Quinn did not pass math, or Quinn did not pass science (or both).",
+      "distractors": []
+    },
+    {
+      "id": "R07_P01",
+      "rule_id": "R07",
+      "text": "It is NOT the case that Alice or Bob passed. What can you conclude?",
+      "ground_truth": "Alice did not pass AND Bob did not pass.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P02",
+      "rule_id": "R07",
+      "text": "It is false that either the bus or train is running. What follows?",
+      "ground_truth": "The bus is not running AND the train is not running.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P03",
+      "rule_id": "R07",
+      "text": "Not (it is raining or snowing). What can you conclude?",
+      "ground_truth": "It is not raining AND it is not snowing.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P04",
+      "rule_id": "R07",
+      "text": "'Not (P or Q)' is equivalent to what?",
+      "ground_truth": "Not P and not Q.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P05",
+      "rule_id": "R07",
+      "text": "It is not the case that Sam speaks French or German. What follows?",
+      "ground_truth": "Sam does not speak French AND Sam does not speak German.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P06",
+      "rule_id": "R07",
+      "text": "It is false that either condition X or condition Y holds. Restate.",
+      "ground_truth": "Condition X does not hold AND condition Y does not hold.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P07",
+      "rule_id": "R07",
+      "text": "Not (the store is open or the website is up). What can you conclude?",
+      "ground_truth": "The store is not open AND the website is not up.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P08",
+      "rule_id": "R07",
+      "text": "It is not true that either the left or right path leads home. What follows?",
+      "ground_truth": "The left path does not lead home AND the right path does not lead home.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P09",
+      "rule_id": "R07",
+      "text": "Not (Mia or Leo attended the party). What can you conclude?",
+      "ground_truth": "Mia did not attend AND Leo did not attend.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P10",
+      "rule_id": "R07",
+      "text": "It is false that it is hot or humid. Restate.",
+      "ground_truth": "It is not hot AND it is not humid.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P11",
+      "rule_id": "R07",
+      "text": "Not (the email was sent or the call was made). What follows?",
+      "ground_truth": "The email was not sent AND the call was not made.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P12",
+      "rule_id": "R07",
+      "text": "It is not the case that Riley or Jordan volunteered. What can you conclude?",
+      "ground_truth": "Riley did not volunteer AND Jordan did not volunteer.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P13",
+      "rule_id": "R07",
+      "text": "Not (A ∨ B) where A='it is morning' and B='it is afternoon'. What follows?",
+      "ground_truth": "It is not morning AND it is not afternoon.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P14",
+      "rule_id": "R07",
+      "text": "It is false that either team scored. Restate.",
+      "ground_truth": "Neither team scored; the first team did not score AND the second team did not score.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P15",
+      "rule_id": "R07",
+      "text": "Not (the window is open or the fan is on). What can you conclude?",
+      "ground_truth": "The window is not open AND the fan is not on.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P16",
+      "rule_id": "R07",
+      "text": "It is not the case that Kai or Ava was promoted. What follows?",
+      "ground_truth": "Kai was not promoted AND Ava was not promoted.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P17",
+      "rule_id": "R07",
+      "text": "Not (the paper was published or submitted). Restate.",
+      "ground_truth": "The paper was not published AND the paper was not submitted.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P18",
+      "rule_id": "R07",
+      "text": "It is false that either candidate won a majority. What can you conclude?",
+      "ground_truth": "The first candidate did not win a majority AND the second candidate did not win a majority.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P19",
+      "rule_id": "R07",
+      "text": "Not (the experiment succeeded or was repeated). What follows?",
+      "ground_truth": "The experiment did not succeed AND was not repeated.",
+      "distractors": []
+    },
+    {
+      "id": "R07_P20",
+      "rule_id": "R07",
+      "text": "It is not the case that Quinn likes coffee or tea. What can you conclude?",
+      "ground_truth": "Quinn does not like coffee AND Quinn does not like tea.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P01",
+      "rule_id": "R08",
+      "text": "It is not the case that it is not raining. What can you conclude?",
+      "ground_truth": "It is raining.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P02",
+      "rule_id": "R08",
+      "text": "It is false that Alice is not happy. What follows?",
+      "ground_truth": "Alice is happy.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P03",
+      "rule_id": "R08",
+      "text": "It is not true that the door is not locked. What can you conclude?",
+      "ground_truth": "The door is locked.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P04",
+      "rule_id": "R08",
+      "text": "The claim 'it is not the case that the answer is not 42' simplifies to what?",
+      "ground_truth": "The answer is 42.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P05",
+      "rule_id": "R08",
+      "text": "It is not the case that Sam did not attend. What follows?",
+      "ground_truth": "Sam attended.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P06",
+      "rule_id": "R08",
+      "text": "'Not not P' is equivalent to what?",
+      "ground_truth": "P.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P07",
+      "rule_id": "R08",
+      "text": "It is false that Bob is not guilty. What can you conclude?",
+      "ground_truth": "Bob is guilty.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P08",
+      "rule_id": "R08",
+      "text": "It is not true that it is not cold outside. What follows?",
+      "ground_truth": "It is cold outside.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P09",
+      "rule_id": "R08",
+      "text": "The statement 'not (not sunny)' simplifies to what?",
+      "ground_truth": "It is sunny.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P10",
+      "rule_id": "R08",
+      "text": "It is not the case that the light is not on. What can you conclude?",
+      "ground_truth": "The light is on.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P11",
+      "rule_id": "R08",
+      "text": "It is false that Mia does not like chocolate. What follows?",
+      "ground_truth": "Mia likes chocolate.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P12",
+      "rule_id": "R08",
+      "text": "'It is not the case that it is not Monday' simplifies to what?",
+      "ground_truth": "It is Monday.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P13",
+      "rule_id": "R08",
+      "text": "It is not true that the project is not complete. What can you conclude?",
+      "ground_truth": "The project is complete.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P14",
+      "rule_id": "R08",
+      "text": "Not (not (X > 5)). What does this simplify to?",
+      "ground_truth": "X > 5.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P15",
+      "rule_id": "R08",
+      "text": "It is false that Leo is not a student. What follows?",
+      "ground_truth": "Leo is a student.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P16",
+      "rule_id": "R08",
+      "text": "It is not the case that the statement is not true. What can you conclude?",
+      "ground_truth": "The statement is true.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P17",
+      "rule_id": "R08",
+      "text": "'It is not the case that it is not the case that P' equals what?",
+      "ground_truth": "P.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P18",
+      "rule_id": "R08",
+      "text": "It is not true that the window is not broken. What follows?",
+      "ground_truth": "The window is broken.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P19",
+      "rule_id": "R08",
+      "text": "It is false that Quinn did not win. What can you conclude?",
+      "ground_truth": "Quinn won.",
+      "distractors": []
+    },
+    {
+      "id": "R08_P20",
+      "rule_id": "R08",
+      "text": "Not (not (the file exists)). What does this simplify to?",
+      "ground_truth": "The file exists.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P01",
+      "rule_id": "R09",
+      "text": "Alice is taller than Bob. Bob is taller than Carol. Who is taller, Alice or Carol?",
+      "ground_truth": "Alice is taller than Carol.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P02",
+      "rule_id": "R09",
+      "text": "X > Y and Y > Z. What is the relationship between X and Z?",
+      "ground_truth": "X > Z.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P03",
+      "rule_id": "R09",
+      "text": "The elephant is heavier than the horse. The horse is heavier than the dog. Compare the elephant and the dog.",
+      "ground_truth": "The elephant is heavier than the dog.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P04",
+      "rule_id": "R09",
+      "text": "Team A beat Team B. Team B beat Team C. If these results are transitive, what follows?",
+      "ground_truth": "Team A beat Team C.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P05",
+      "rule_id": "R09",
+      "text": "Red is darker than blue. Blue is darker than yellow. Compare red and yellow.",
+      "ground_truth": "Red is darker than yellow.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P06",
+      "rule_id": "R09",
+      "text": "Sam is older than Jordan. Jordan is older than Riley. Who is oldest?",
+      "ground_truth": "Sam is oldest.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P07",
+      "rule_id": "R09",
+      "text": "Building A is taller than Building B. Building B is taller than Building C. Which is tallest?",
+      "ground_truth": "Building A is tallest.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P08",
+      "rule_id": "R09",
+      "text": "Math is harder than English. English is harder than Art. Compare Math and Art.",
+      "ground_truth": "Math is harder than Art.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P09",
+      "rule_id": "R09",
+      "text": "The oak tree is older than the maple. The maple is older than the birch. Compare the oak and birch.",
+      "ground_truth": "The oak tree is older than the birch.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P10",
+      "rule_id": "R09",
+      "text": "If A > B and B > C, and C > D, what is the relationship between A and D?",
+      "ground_truth": "A > D.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P11",
+      "rule_id": "R09",
+      "text": "Paris is farther from Tokyo than London is. London is farther from Tokyo than Berlin is. Compare Paris and Berlin in distance from Tokyo.",
+      "ground_truth": "Paris is farther from Tokyo than Berlin.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P12",
+      "rule_id": "R09",
+      "text": "Kai is faster than Mia. Mia is faster than Leo. Who is fastest?",
+      "ground_truth": "Kai is fastest.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P13",
+      "rule_id": "R09",
+      "text": "Gold is denser than silver. Silver is denser than aluminum. Compare gold and aluminum.",
+      "ground_truth": "Gold is denser than aluminum.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P14",
+      "rule_id": "R09",
+      "text": "Task A takes longer than Task B. Task B takes longer than Task C. Which task takes longest?",
+      "ground_truth": "Task A takes longest.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P15",
+      "rule_id": "R09",
+      "text": "Novel X has more pages than Novel Y. Novel Y has more pages than Novel Z. Compare X and Z.",
+      "ground_truth": "Novel X has more pages than Novel Z.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P16",
+      "rule_id": "R09",
+      "text": "The CEO ranks above the VP. The VP ranks above the manager. Compare the CEO and the manager.",
+      "ground_truth": "The CEO ranks above the manager.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P17",
+      "rule_id": "R09",
+      "text": "River A is longer than River B. River B is longer than River C. Which river is longest?",
+      "ground_truth": "River A is longest.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P18",
+      "rule_id": "R09",
+      "text": "Diamond is harder than quartz. Quartz is harder than talc. Compare diamond and talc.",
+      "ground_truth": "Diamond is harder than talc.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P19",
+      "rule_id": "R09",
+      "text": "Alice scored higher than Bob. Bob scored higher than Carol. Who scored highest?",
+      "ground_truth": "Alice scored highest.",
+      "distractors": []
+    },
+    {
+      "id": "R09_P20",
+      "rule_id": "R09",
+      "text": "If speed(A) > speed(B) and speed(B) > speed(C), what can you say about speed(A) vs speed(C)?",
+      "ground_truth": "speed(A) > speed(C).",
+      "distractors": []
+    },
+    {
+      "id": "R10_P01",
+      "rule_id": "R10",
+      "text": "Assume there is a largest prime number N. Then consider N! + 1. It is not divisible by any number ≤ N, contradicting that N is the largest prime. What can you conclude?",
+      "ground_truth": "There is no largest prime number; there are infinitely many primes.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P02",
+      "rule_id": "R10",
+      "text": "Assume √2 is rational, i.e., √2 = p/q in lowest terms. Then 2q² = p², so p is even. Then p = 2k, giving 2q² = 4k², so q is even. But p and q cannot both be even if p/q is in lowest terms. What follows?",
+      "ground_truth": "√2 is irrational.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P03",
+      "rule_id": "R10",
+      "text": "Assume that the sum of two odd numbers is odd. Let them be 2a+1 and 2b+1. Their sum is 2(a+b+1), which is even — a contradiction. What can you conclude?",
+      "ground_truth": "The sum of two odd numbers is even.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P04",
+      "rule_id": "R10",
+      "text": "Assume a triangle has two right angles. Then the sum of angles exceeds 180°, which contradicts the triangle angle sum theorem. What follows?",
+      "ground_truth": "A triangle cannot have two right angles.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P05",
+      "rule_id": "R10",
+      "text": "Assume there exists an integer that is both even and odd. Then it is divisible by 2 and leaves remainder 1 when divided by 2 — a contradiction. What can you conclude?",
+      "ground_truth": "No integer is both even and odd.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P06",
+      "rule_id": "R10",
+      "text": "Assume the empty set is not a subset of every set. Then there exists an element in the empty set not in some set S. But the empty set has no elements — contradiction. What follows?",
+      "ground_truth": "The empty set is a subset of every set.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P07",
+      "rule_id": "R10",
+      "text": "Assume that log₂(3) is rational, equal to a/b. Then 2^(a/b) = 3, so 2^a = 3^b. But a power of 2 cannot equal a power of 3 (unique prime factorization). What can you conclude?",
+      "ground_truth": "log₂(3) is irrational.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P08",
+      "rule_id": "R10",
+      "text": "Assume statement S and its negation ¬S are both true. This is a direct contradiction. What follows in classical logic?",
+      "ground_truth": "The assumption is false; S and ¬S cannot both be true.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P09",
+      "rule_id": "R10",
+      "text": "Assume a chess board missing two diagonally opposite corners can be tiled by dominoes. Each domino covers one black and one white square. The removed squares are the same color, leaving unequal counts — contradiction. What follows?",
+      "ground_truth": "The board cannot be tiled by dominoes.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P10",
+      "rule_id": "R10",
+      "text": "Assume that among any 3 people, it is possible that none of them know each other and none are mutual strangers. By the Pigeonhole Principle applied to 2 relationship types, at least 2 of the 3 must share a type — contradiction. What can you conclude?",
+      "ground_truth": "Among any 3 people, either at least 2 know each other or at least 2 are mutual strangers.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P11",
+      "rule_id": "R10",
+      "text": "Assume line L is both parallel and not parallel to line M. This is a contradiction. What follows?",
+      "ground_truth": "The assumption is false; a line cannot be both parallel and not parallel to another line.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P12",
+      "rule_id": "R10",
+      "text": "Assume 0.999... ≠ 1. Let d = 1 - 0.999... > 0. But no positive number d can be found between them (since 10d = 10 - 9.999... = d). Contradiction. What can you conclude?",
+      "ground_truth": "0.999... = 1.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P13",
+      "rule_id": "R10",
+      "text": "Assume a function is continuous on [a,b], f(a) < 0 < f(b), but f has no root in (a,b). By the Intermediate Value Theorem, f must cross zero — contradiction. What follows?",
+      "ground_truth": "The function has at least one root in (a,b).",
+      "distractors": []
+    },
+    {
+      "id": "R10_P14",
+      "rule_id": "R10",
+      "text": "Assume an even number greater than 2 is prime. Then it is divisible by 2 and thus not prime — contradiction. What can you conclude?",
+      "ground_truth": "No even number greater than 2 is prime.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P15",
+      "rule_id": "R10",
+      "text": "Assume there is a set of all sets. It would contain itself. Consider the subset of sets that don't contain themselves — this leads to Russell's Paradox. What follows?",
+      "ground_truth": "There is no set of all sets.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P16",
+      "rule_id": "R10",
+      "text": "Assume two distinct lines in a plane intersect at two different points. Two points determine a unique line — contradiction. What can you conclude?",
+      "ground_truth": "Two distinct lines can intersect at most at one point.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P17",
+      "rule_id": "R10",
+      "text": "Assume a non-zero number x satisfies x = -x. Then 2x = 0, so x = 0, contradicting x ≠ 0. What follows?",
+      "ground_truth": "No non-zero number equals its own negation.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P18",
+      "rule_id": "R10",
+      "text": "Assume the set of real numbers between 0 and 1 is countable. Cantor's diagonal argument constructs a real number not in the list — contradiction. What can you conclude?",
+      "ground_truth": "The set of real numbers between 0 and 1 is uncountable.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P19",
+      "rule_id": "R10",
+      "text": "Assume n² is even but n is odd. Then n = 2k+1 and n² = 4k²+4k+1, which is odd — contradicting n² being even. What follows?",
+      "ground_truth": "If n² is even, then n is even.",
+      "distractors": []
+    },
+    {
+      "id": "R10_P20",
+      "rule_id": "R10",
+      "text": "Assume a finite group has no identity element. Group axioms require an identity — contradiction. What can you conclude?",
+      "ground_truth": "Every finite group has an identity element.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P01",
+      "rule_id": "R11",
+      "text": "All mammals are warm-blooded. A dog is a mammal. What can you conclude about the dog?",
+      "ground_truth": "The dog is warm-blooded.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P02",
+      "rule_id": "R11",
+      "text": "All students must submit homework. Alice is a student. What follows?",
+      "ground_truth": "Alice must submit homework.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P03",
+      "rule_id": "R11",
+      "text": "Every prime number greater than 2 is odd. 7 is prime and greater than 2. What can you conclude?",
+      "ground_truth": "7 is odd.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P04",
+      "rule_id": "R11",
+      "text": "All birds have feathers. A robin is a bird. What follows?",
+      "ground_truth": "A robin has feathers.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P05",
+      "rule_id": "R11",
+      "text": "Every employee must attend the meeting. Jordan is an employee. What can you conclude?",
+      "ground_truth": "Jordan must attend the meeting.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P06",
+      "rule_id": "R11",
+      "text": "All even numbers are divisible by 2. 14 is even. What follows?",
+      "ground_truth": "14 is divisible by 2.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P07",
+      "rule_id": "R11",
+      "text": "All planets orbit a star. Earth is a planet. What can you conclude?",
+      "ground_truth": "Earth orbits a star.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P08",
+      "rule_id": "R11",
+      "text": "Every citizen has the right to vote. Sam is a citizen. What follows?",
+      "ground_truth": "Sam has the right to vote.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P09",
+      "rule_id": "R11",
+      "text": "All metals conduct electricity. Copper is a metal. What can you conclude?",
+      "ground_truth": "Copper conducts electricity.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P10",
+      "rule_id": "R11",
+      "text": "Every triangle has angles summing to 180°. Figure F is a triangle. What follows?",
+      "ground_truth": "Figure F has angles summing to 180°.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P11",
+      "rule_id": "R11",
+      "text": "All roses are flowers. This rose is a rose. What can you conclude?",
+      "ground_truth": "This rose is a flower.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P12",
+      "rule_id": "R11",
+      "text": "Every file in the folder is encrypted. report.pdf is in the folder. What follows?",
+      "ground_truth": "report.pdf is encrypted.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P13",
+      "rule_id": "R11",
+      "text": "All members must pay dues. Kai is a member. What can you conclude?",
+      "ground_truth": "Kai must pay dues.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P14",
+      "rule_id": "R11",
+      "text": "Every natural number is an integer. 5 is a natural number. What follows?",
+      "ground_truth": "5 is an integer.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P15",
+      "rule_id": "R11",
+      "text": "All squares are rectangles. Figure S is a square. What can you conclude?",
+      "ground_truth": "Figure S is a rectangle.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P16",
+      "rule_id": "R11",
+      "text": "Every participant receives a certificate. Mia is a participant. What follows?",
+      "ground_truth": "Mia receives a certificate.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P17",
+      "rule_id": "R11",
+      "text": "All fruits contain seeds. An apple is a fruit. What can you conclude?",
+      "ground_truth": "An apple contains seeds.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P18",
+      "rule_id": "R11",
+      "text": "Every element in the list is positive. 7 is in the list. What follows?",
+      "ground_truth": "7 is positive.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P19",
+      "rule_id": "R11",
+      "text": "All novels in this series have more than 200 pages. Book 3 is in this series. What can you conclude?",
+      "ground_truth": "Book 3 has more than 200 pages.",
+      "distractors": []
+    },
+    {
+      "id": "R11_P20",
+      "rule_id": "R11",
+      "text": "Every function in this module is tested. parse() is in this module. What follows?",
+      "ground_truth": "parse() is tested.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P01",
+      "rule_id": "R12",
+      "text": "'A triangle is equilateral if and only if all three sides are equal.' Given the triangle is equilateral, what follows?",
+      "ground_truth": "All three sides are equal.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P02",
+      "rule_id": "R12",
+      "text": "'P if and only if Q.' P is true. What can you conclude about Q?",
+      "ground_truth": "Q is true.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P03",
+      "rule_id": "R12",
+      "text": "'You pass if and only if you score above 60.' You scored 75. What follows?",
+      "ground_truth": "You pass.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P04",
+      "rule_id": "R12",
+      "text": "'The door opens if and only if the key is correct.' The door opened. What can you conclude?",
+      "ground_truth": "The key is correct.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P05",
+      "rule_id": "R12",
+      "text": "'A number is even if and only if it is divisible by 2.' The number is not divisible by 2. What follows?",
+      "ground_truth": "The number is not even.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P06",
+      "rule_id": "R12",
+      "text": "'It is Tuesday if and only if the store has a sale.' It is not Tuesday. What can you conclude?",
+      "ground_truth": "The store does not have a sale.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P07",
+      "rule_id": "R12",
+      "text": "'X = Y if and only if Y = X.' X equals Y. What follows?",
+      "ground_truth": "Y equals X.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P08",
+      "rule_id": "R12",
+      "text": "'The alarm rings if and only if there is an intruder.' There is no intruder. What can you conclude?",
+      "ground_truth": "The alarm does not ring.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P09",
+      "rule_id": "R12",
+      "text": "'A figure is a square if and only if it is a rectangle with equal sides.' The figure is a rectangle with equal sides. What follows?",
+      "ground_truth": "The figure is a square.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P10",
+      "rule_id": "R12",
+      "text": "'It rains if and only if clouds are present.' It is not raining. What can you conclude?",
+      "ground_truth": "Clouds are not present.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P11",
+      "rule_id": "R12",
+      "text": "'Access is granted if and only if the password is correct.' The password is correct. What follows?",
+      "ground_truth": "Access is granted.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P12",
+      "rule_id": "R12",
+      "text": "'P ↔ Q' — what two implications does this give us?",
+      "ground_truth": "P implies Q, and Q implies P.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P13",
+      "rule_id": "R12",
+      "text": "'Alice attends if and only if Bob attends.' Alice is attending. What can you conclude?",
+      "ground_truth": "Bob is attending.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P14",
+      "rule_id": "R12",
+      "text": "'The circuit is complete if and only if current flows.' Current is not flowing. What follows?",
+      "ground_truth": "The circuit is not complete.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P15",
+      "rule_id": "R12",
+      "text": "'Leo is eligible if and only if Leo is 18 or older.' Leo is 17. What can you conclude?",
+      "ground_truth": "Leo is not eligible.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P16",
+      "rule_id": "R12",
+      "text": "'It is daytime if and only if the sun is up.' The sun is up. What follows?",
+      "ground_truth": "It is daytime.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P17",
+      "rule_id": "R12",
+      "text": "'The function returns true if and only if the input is valid.' The function returned false. What can you conclude?",
+      "ground_truth": "The input is not valid.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P18",
+      "rule_id": "R12",
+      "text": "'P ↔ Q' and Q is false. What follows about P?",
+      "ground_truth": "P is false.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P19",
+      "rule_id": "R12",
+      "text": "'A reaction occurs if and only if the catalyst is present.' No reaction occurred. What can you conclude?",
+      "ground_truth": "The catalyst is not present.",
+      "distractors": []
+    },
+    {
+      "id": "R12_P20",
+      "rule_id": "R12",
+      "text": "'The class runs if and only if at least 5 students enroll.' Exactly 5 students enrolled. What follows?",
+      "ground_truth": "The class runs.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P01",
+      "rule_id": "R13",
+      "text": "If I study, I pass. If I work, I earn money. I will either study or work. What can you conclude?",
+      "ground_truth": "I will either pass or earn money.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P02",
+      "rule_id": "R13",
+      "text": "If it rains, we use an umbrella. If it snows, we wear a coat. It will either rain or snow. What follows?",
+      "ground_truth": "We will either use an umbrella or wear a coat.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P03",
+      "rule_id": "R13",
+      "text": "If Alice applies, she gets an interview. If Bob applies, he gets an interview. Either Alice or Bob will apply. What can you conclude?",
+      "ground_truth": "Either Alice or Bob gets an interview.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P04",
+      "rule_id": "R13",
+      "text": "If you take Route A, you arrive by 10. If you take Route B, you arrive by 11. You take either Route A or B. What follows?",
+      "ground_truth": "You arrive by either 10 or 11.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P05",
+      "rule_id": "R13",
+      "text": "If the economy grows, stocks rise. If the economy shrinks, bonds rise. The economy will either grow or shrink. What can you conclude?",
+      "ground_truth": "Either stocks rise or bonds rise.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P06",
+      "rule_id": "R13",
+      "text": "If it is hot, we swim. If it is cold, we ski. It is either hot or cold. What follows?",
+      "ground_truth": "We either swim or ski.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P07",
+      "rule_id": "R13",
+      "text": "If P then Q. If R then S. P or R. What can you conclude?",
+      "ground_truth": "Q or S.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P08",
+      "rule_id": "R13",
+      "text": "If Sam drives, Sam arrives early. If Sam takes the bus, Sam saves money. Sam either drives or takes the bus. What follows?",
+      "ground_truth": "Sam either arrives early or saves money.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P09",
+      "rule_id": "R13",
+      "text": "If the test passes, deploy. If the test fails, debug. The test either passes or fails. What can you conclude?",
+      "ground_truth": "We either deploy or debug.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P10",
+      "rule_id": "R13",
+      "text": "If Mia sings, the audience cheers. If Mia dances, the audience applauds. Mia will either sing or dance. What follows?",
+      "ground_truth": "The audience either cheers or applauds.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P11",
+      "rule_id": "R13",
+      "text": "If X is positive, the sum increases. If X is negative, the sum decreases. X is either positive or negative. What can you conclude?",
+      "ground_truth": "The sum either increases or decreases.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P12",
+      "rule_id": "R13",
+      "text": "If it is a weekday, the office opens. If it is a weekend, the mall opens. Today is either a weekday or weekend. What follows?",
+      "ground_truth": "Either the office or the mall opens.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P13",
+      "rule_id": "R13",
+      "text": "If power is on, the screen lights up. If power is off, the battery charges. Power is either on or off. What can you conclude?",
+      "ground_truth": "Either the screen lights up or the battery charges.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P14",
+      "rule_id": "R13",
+      "text": "If you choose math, you solve equations. If you choose art, you paint. You choose either math or art. What follows?",
+      "ground_truth": "You either solve equations or paint.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P15",
+      "rule_id": "R13",
+      "text": "If the data is valid, the model trains. If the data is invalid, an error is raised. The data is either valid or invalid. What can you conclude?",
+      "ground_truth": "Either the model trains or an error is raised.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P16",
+      "rule_id": "R13",
+      "text": "If Leo studies medicine, Leo becomes a doctor. If Leo studies law, Leo becomes a lawyer. Leo studies either medicine or law. What follows?",
+      "ground_truth": "Leo becomes either a doctor or a lawyer.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P17",
+      "rule_id": "R13",
+      "text": "If the signal is green, the train moves. If the signal is red, the train stops. The signal is either green or red. What can you conclude?",
+      "ground_truth": "The train either moves or stops.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P18",
+      "rule_id": "R13",
+      "text": "If demand is high, prices increase. If supply is high, prices decrease. Either demand or supply is high. What follows?",
+      "ground_truth": "Prices either increase or decrease.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P19",
+      "rule_id": "R13",
+      "text": "If the wind blows, the windmill turns. If the sun shines, the solar panel generates power. Either the wind blows or the sun shines. What can you conclude?",
+      "ground_truth": "Either the windmill turns or the solar panel generates power.",
+      "distractors": []
+    },
+    {
+      "id": "R13_P20",
+      "rule_id": "R13",
+      "text": "If you go left, you find the lake. If you go right, you find the mountain. You go either left or right. What follows?",
+      "ground_truth": "You find either the lake or the mountain.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P01",
+      "rule_id": "R14",
+      "text": "If it rains, then the ground is wet. By absorption, what can you conclude?",
+      "ground_truth": "If it rains, then it rains AND the ground is wet.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P02",
+      "rule_id": "R14",
+      "text": "If P implies Q, what does absorption give us?",
+      "ground_truth": "P implies (P and Q).",
+      "distractors": []
+    },
+    {
+      "id": "R14_P03",
+      "rule_id": "R14",
+      "text": "If Alice studies, she passes. What does absorption tell us?",
+      "ground_truth": "If Alice studies, then Alice studies AND she passes.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P04",
+      "rule_id": "R14",
+      "text": "If the button is pressed, the light turns on. Apply absorption.",
+      "ground_truth": "If the button is pressed, then the button is pressed AND the light turns on.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P05",
+      "rule_id": "R14",
+      "text": "If X > 0, then X is positive. What follows by absorption?",
+      "ground_truth": "If X > 0, then X > 0 AND X is positive.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P06",
+      "rule_id": "R14",
+      "text": "If Sam is running, Sam is exercising. Apply the absorption rule.",
+      "ground_truth": "If Sam is running, then Sam is running AND Sam is exercising.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P07",
+      "rule_id": "R14",
+      "text": "If it is Sunday, the shop is closed. What does absorption give us?",
+      "ground_truth": "If it is Sunday, then it is Sunday AND the shop is closed.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P08",
+      "rule_id": "R14",
+      "text": "If the code compiles, it can be tested. Apply absorption.",
+      "ground_truth": "If the code compiles, then the code compiles AND it can be tested.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P09",
+      "rule_id": "R14",
+      "text": "If the temperature exceeds 100°C, water boils. By absorption?",
+      "ground_truth": "If the temperature exceeds 100°C, then the temperature exceeds 100°C AND water boils.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P10",
+      "rule_id": "R14",
+      "text": "If P → Q, then absorption gives P → ?",
+      "ground_truth": "P → (P ∧ Q).",
+      "distractors": []
+    },
+    {
+      "id": "R14_P11",
+      "rule_id": "R14",
+      "text": "If Mia is a student, Mia gets a discount. Apply absorption.",
+      "ground_truth": "If Mia is a student, then Mia is a student AND Mia gets a discount.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P12",
+      "rule_id": "R14",
+      "text": "If the ball is thrown, the ball moves. By absorption?",
+      "ground_truth": "If the ball is thrown, then the ball is thrown AND the ball moves.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P13",
+      "rule_id": "R14",
+      "text": "If it is winter, it is cold. Apply absorption.",
+      "ground_truth": "If it is winter, then it is winter AND it is cold.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P14",
+      "rule_id": "R14",
+      "text": "If an animal is a cat, it has whiskers. What does absorption give?",
+      "ground_truth": "If an animal is a cat, then it is a cat AND it has whiskers.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P15",
+      "rule_id": "R14",
+      "text": "If Leo passed, Leo is happy. By absorption?",
+      "ground_truth": "If Leo passed, then Leo passed AND Leo is happy.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P16",
+      "rule_id": "R14",
+      "text": "If power is on, the machine runs. Apply absorption.",
+      "ground_truth": "If power is on, then power is on AND the machine runs.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P17",
+      "rule_id": "R14",
+      "text": "If you study, you learn. What does absorption tell us?",
+      "ground_truth": "If you study, then you study AND you learn.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P18",
+      "rule_id": "R14",
+      "text": "If traffic is light, the commute is short. By absorption?",
+      "ground_truth": "If traffic is light, then traffic is light AND the commute is short.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P19",
+      "rule_id": "R14",
+      "text": "If the sky is clear, stars are visible. Apply absorption.",
+      "ground_truth": "If the sky is clear, then the sky is clear AND stars are visible.",
+      "distractors": []
+    },
+    {
+      "id": "R14_P20",
+      "rule_id": "R14",
+      "text": "If Q follows from P, absorption says P implies what?",
+      "ground_truth": "P implies both P and Q.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P01",
+      "rule_id": "R15",
+      "text": "'If it is a cat, then it is an animal.' Rewrite using material implication (without 'if...then').",
+      "ground_truth": "It is not a cat, or it is an animal.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P02",
+      "rule_id": "R15",
+      "text": "'P → Q' is equivalent to what disjunction?",
+      "ground_truth": "¬P ∨ Q.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P03",
+      "rule_id": "R15",
+      "text": "'If it rains, I carry an umbrella.' Rewrite without 'if...then'.",
+      "ground_truth": "It does not rain, or I carry an umbrella.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P04",
+      "rule_id": "R15",
+      "text": "'If you are a student, you have an ID.' Restate as a disjunction.",
+      "ground_truth": "You are not a student, or you have an ID.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P05",
+      "rule_id": "R15",
+      "text": "'If the light is red, stop.' Rewrite using material implication.",
+      "ground_truth": "The light is not red, or you stop.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P06",
+      "rule_id": "R15",
+      "text": "'If X > 10, then X > 5.' Restate without the conditional.",
+      "ground_truth": "X is not greater than 10, or X is greater than 5.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P07",
+      "rule_id": "R15",
+      "text": "Express 'If Alice wins, she celebrates' without using 'if...then'.",
+      "ground_truth": "Alice does not win, or she celebrates.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P08",
+      "rule_id": "R15",
+      "text": "'If the file exists, it can be opened.' Rewrite as a disjunction.",
+      "ground_truth": "The file does not exist, or it can be opened.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P09",
+      "rule_id": "R15",
+      "text": "'P implies Q' means what in terms of 'or' and 'not'?",
+      "ground_truth": "Not P or Q.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P10",
+      "rule_id": "R15",
+      "text": "'If it is Friday, the report is due.' Restate using material implication.",
+      "ground_truth": "It is not Friday, or the report is due.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P11",
+      "rule_id": "R15",
+      "text": "'If the battery is low, the phone shuts down.' Rewrite without 'if...then'.",
+      "ground_truth": "The battery is not low, or the phone shuts down.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P12",
+      "rule_id": "R15",
+      "text": "'If Bob is late, the meeting is delayed.' Express as a disjunction.",
+      "ground_truth": "Bob is not late, or the meeting is delayed.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P13",
+      "rule_id": "R15",
+      "text": "'If n is even, n² is even.' Restate using material implication.",
+      "ground_truth": "n is not even, or n² is even.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P14",
+      "rule_id": "R15",
+      "text": "'If you break the law, you get a fine.' Rewrite as a disjunction.",
+      "ground_truth": "You do not break the law, or you get a fine.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P15",
+      "rule_id": "R15",
+      "text": "'If the dog barks, the neighbors wake up.' Express without 'if...then'.",
+      "ground_truth": "The dog does not bark, or the neighbors wake up.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P16",
+      "rule_id": "R15",
+      "text": "'If it is summer, it is hot.' Apply material implication.",
+      "ground_truth": "It is not summer, or it is hot.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P17",
+      "rule_id": "R15",
+      "text": "'If the key is turned, the engine starts.' Restate as a disjunction.",
+      "ground_truth": "The key is not turned, or the engine starts.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P18",
+      "rule_id": "R15",
+      "text": "'If Leo runs, Leo sweats.' Rewrite using material implication.",
+      "ground_truth": "Leo does not run, or Leo sweats.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P19",
+      "rule_id": "R15",
+      "text": "'A → B' becomes what in disjunctive form?",
+      "ground_truth": "¬A ∨ B.",
+      "distractors": []
+    },
+    {
+      "id": "R15_P20",
+      "rule_id": "R15",
+      "text": "'If the test passes, the build succeeds.' Rewrite without 'if...then'.",
+      "ground_truth": "The test does not pass, or the build succeeds.",
+      "distractors": []
+    }
+  ]
+}

@@ -1,0 +1,2104 @@
+{
+  "problems": [
+    {
+      "id": "R01_T3_P01",
+      "rule_id": "R01",
+      "text": "If pqbdp implies bpqdb, and we have pqbdp, what is the resulting string?",
+      "ground_truth": "bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P02",
+      "rule_id": "R01",
+      "text": "If b6q9b implies q9b6q, and we have b6q9b, what is the resulting string?",
+      "ground_truth": "q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P03",
+      "rule_id": "R01",
+      "text": "If pqbdp implies bpqdb, and we have pqbdp, what is the resulting string?",
+      "ground_truth": "bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P04",
+      "rule_id": "R01",
+      "text": "If pqbdp implies bpqdb, and we have pqbdp, what is the resulting string?",
+      "ground_truth": "bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P05",
+      "rule_id": "R01",
+      "text": "If mnmnm implies nmnmn, and we have mnmnm, what is the resulting string?",
+      "ground_truth": "nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P06",
+      "rule_id": "R01",
+      "text": "If Z2Z2Z implies 2Z2Z2, and we have Z2Z2Z, what is the resulting string?",
+      "ground_truth": "2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P07",
+      "rule_id": "R01",
+      "text": "If XKXZX implies XZXKX, and we have XKXZX, what is the resulting string?",
+      "ground_truth": "XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P08",
+      "rule_id": "R01",
+      "text": "If dqpdb implies dqbdp, and we have dqpdb, what is the resulting string?",
+      "ground_truth": "dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P09",
+      "rule_id": "R01",
+      "text": "If XKXZX implies XZXKX, and we have XKXZX, what is the resulting string?",
+      "ground_truth": "XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P10",
+      "rule_id": "R01",
+      "text": "If pqbdp implies bpqdb, and we have pqbdp, what is the resulting string?",
+      "ground_truth": "bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P11",
+      "rule_id": "R01",
+      "text": "If S5S5S implies 5S5S5, and we have S5S5S, what is the resulting string?",
+      "ground_truth": "5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P12",
+      "rule_id": "R01",
+      "text": "If vvwwv implies wwvvw, and we have vvwwv, what is the resulting string?",
+      "ground_truth": "wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P13",
+      "rule_id": "R01",
+      "text": "If lIl1l implies 1lI1l, and we have lIl1l, what is the resulting string?",
+      "ground_truth": "1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P14",
+      "rule_id": "R01",
+      "text": "If pqbdp implies bpqdb, and we have pqbdp, what is the resulting string?",
+      "ground_truth": "bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P15",
+      "rule_id": "R01",
+      "text": "If b6q9b implies q9b6q, and we have b6q9b, what is the resulting string?",
+      "ground_truth": "q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P16",
+      "rule_id": "R01",
+      "text": "If XKXZX implies XZXKX, and we have XKXZX, what is the resulting string?",
+      "ground_truth": "XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P17",
+      "rule_id": "R01",
+      "text": "If S5S5S implies 5S5S5, and we have S5S5S, what is the resulting string?",
+      "ground_truth": "5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P18",
+      "rule_id": "R01",
+      "text": "If lIl1l implies 1lI1l, and we have lIl1l, what is the resulting string?",
+      "ground_truth": "1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P19",
+      "rule_id": "R01",
+      "text": "If mnmnm implies nmnmn, and we have mnmnm, what is the resulting string?",
+      "ground_truth": "nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R01_T3_P20",
+      "rule_id": "R01",
+      "text": "If mnmnm implies nmnmn, and we have mnmnm, what is the resulting string?",
+      "ground_truth": "nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P01",
+      "rule_id": "R02",
+      "text": "If pqbdp implies bpqdb, and bpqdb is false, what follows for pqbdp?",
+      "ground_truth": "pqbdp is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P02",
+      "rule_id": "R02",
+      "text": "If mnmnm implies nmnmn, and nmnmn is false, what follows for mnmnm?",
+      "ground_truth": "mnmnm is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P03",
+      "rule_id": "R02",
+      "text": "If XKXZX implies XZXKX, and XZXKX is false, what follows for XKXZX?",
+      "ground_truth": "XKXZX is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P04",
+      "rule_id": "R02",
+      "text": "If b6q9b implies q9b6q, and q9b6q is false, what follows for b6q9b?",
+      "ground_truth": "b6q9b is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P05",
+      "rule_id": "R02",
+      "text": "If vvwwv implies wwvvw, and wwvvw is false, what follows for vvwwv?",
+      "ground_truth": "vvwwv is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P06",
+      "rule_id": "R02",
+      "text": "If b6q9b implies q9b6q, and q9b6q is false, what follows for b6q9b?",
+      "ground_truth": "b6q9b is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P07",
+      "rule_id": "R02",
+      "text": "If vvwwv implies wwvvw, and wwvvw is false, what follows for vvwwv?",
+      "ground_truth": "vvwwv is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P08",
+      "rule_id": "R02",
+      "text": "If pqbdp implies bpqdb, and bpqdb is false, what follows for pqbdp?",
+      "ground_truth": "pqbdp is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P09",
+      "rule_id": "R02",
+      "text": "If lIl1l implies 1lI1l, and 1lI1l is false, what follows for lIl1l?",
+      "ground_truth": "lIl1l is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P10",
+      "rule_id": "R02",
+      "text": "If O0O0O implies 0O0O0, and 0O0O0 is false, what follows for O0O0O?",
+      "ground_truth": "O0O0O is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P11",
+      "rule_id": "R02",
+      "text": "If mnmnm implies nmnmn, and nmnmn is false, what follows for mnmnm?",
+      "ground_truth": "mnmnm is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P12",
+      "rule_id": "R02",
+      "text": "If lIl1l implies 1lI1l, and 1lI1l is false, what follows for lIl1l?",
+      "ground_truth": "lIl1l is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P13",
+      "rule_id": "R02",
+      "text": "If Z2Z2Z implies 2Z2Z2, and 2Z2Z2 is false, what follows for Z2Z2Z?",
+      "ground_truth": "Z2Z2Z is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P14",
+      "rule_id": "R02",
+      "text": "If XKXZX implies XZXKX, and XZXKX is false, what follows for XKXZX?",
+      "ground_truth": "XKXZX is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P15",
+      "rule_id": "R02",
+      "text": "If XKXZX implies XZXKX, and XZXKX is false, what follows for XKXZX?",
+      "ground_truth": "XKXZX is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P16",
+      "rule_id": "R02",
+      "text": "If XKXZX implies XZXKX, and XZXKX is false, what follows for XKXZX?",
+      "ground_truth": "XKXZX is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P17",
+      "rule_id": "R02",
+      "text": "If O0O0O implies 0O0O0, and 0O0O0 is false, what follows for O0O0O?",
+      "ground_truth": "O0O0O is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P18",
+      "rule_id": "R02",
+      "text": "If dqpdb implies dqbdp, and dqbdp is false, what follows for dqpdb?",
+      "ground_truth": "dqpdb is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P19",
+      "rule_id": "R02",
+      "text": "If O0O0O implies 0O0O0, and 0O0O0 is false, what follows for O0O0O?",
+      "ground_truth": "O0O0O is false",
+      "distractors": []
+    },
+    {
+      "id": "R02_T3_P20",
+      "rule_id": "R02",
+      "text": "If lIl1l implies 1lI1l, and 1lI1l is false, what follows for lIl1l?",
+      "ground_truth": "lIl1l is false",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P01",
+      "rule_id": "R03",
+      "text": "If Z2Z2Z->2Z2Z2, 2Z2Z2->XKXZX. Start Z2Z2Z?",
+      "ground_truth": "XKXZX",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P02",
+      "rule_id": "R03",
+      "text": "If Z2Z2Z->2Z2Z2, 2Z2Z2->lIl1l. Start Z2Z2Z?",
+      "ground_truth": "lIl1l",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P03",
+      "rule_id": "R03",
+      "text": "If b6q9b->q9b6q, q9b6q->O0O0O. Start b6q9b?",
+      "ground_truth": "O0O0O",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P04",
+      "rule_id": "R03",
+      "text": "If dqpdb->dqbdp, dqbdp->lIl1l. Start dqpdb?",
+      "ground_truth": "lIl1l",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P05",
+      "rule_id": "R03",
+      "text": "If S5S5S->5S5S5, 5S5S5->b6q9b. Start S5S5S?",
+      "ground_truth": "b6q9b",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P06",
+      "rule_id": "R03",
+      "text": "If mnmnm->nmnmn, nmnmn->lIl1l. Start mnmnm?",
+      "ground_truth": "lIl1l",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P07",
+      "rule_id": "R03",
+      "text": "If S5S5S->5S5S5, 5S5S5->XKXZX. Start S5S5S?",
+      "ground_truth": "XKXZX",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P08",
+      "rule_id": "R03",
+      "text": "If mnmnm->nmnmn, nmnmn->Z2Z2Z. Start mnmnm?",
+      "ground_truth": "Z2Z2Z",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P09",
+      "rule_id": "R03",
+      "text": "If dqpdb->dqbdp, dqbdp->vvwwv. Start dqpdb?",
+      "ground_truth": "vvwwv",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P10",
+      "rule_id": "R03",
+      "text": "If vvwwv->wwvvw, wwvvw->pqbdp. Start vvwwv?",
+      "ground_truth": "pqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P11",
+      "rule_id": "R03",
+      "text": "If b6q9b->q9b6q, q9b6q->XKXZX. Start b6q9b?",
+      "ground_truth": "XKXZX",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P12",
+      "rule_id": "R03",
+      "text": "If b6q9b->q9b6q, q9b6q->vvwwv. Start b6q9b?",
+      "ground_truth": "vvwwv",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P13",
+      "rule_id": "R03",
+      "text": "If Z2Z2Z->2Z2Z2, 2Z2Z2->pqbdp. Start Z2Z2Z?",
+      "ground_truth": "pqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P14",
+      "rule_id": "R03",
+      "text": "If S5S5S->5S5S5, 5S5S5->mnmnm. Start S5S5S?",
+      "ground_truth": "mnmnm",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P15",
+      "rule_id": "R03",
+      "text": "If dqpdb->dqbdp, dqbdp->XKXZX. Start dqpdb?",
+      "ground_truth": "XKXZX",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P16",
+      "rule_id": "R03",
+      "text": "If mnmnm->nmnmn, nmnmn->dqpdb. Start mnmnm?",
+      "ground_truth": "dqpdb",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P17",
+      "rule_id": "R03",
+      "text": "If O0O0O->0O0O0, 0O0O0->lIl1l. Start O0O0O?",
+      "ground_truth": "lIl1l",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P18",
+      "rule_id": "R03",
+      "text": "If dqpdb->dqbdp, dqbdp->dqpdb. Start dqpdb?",
+      "ground_truth": "dqpdb",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P19",
+      "rule_id": "R03",
+      "text": "If b6q9b->q9b6q, q9b6q->Z2Z2Z. Start b6q9b?",
+      "ground_truth": "Z2Z2Z",
+      "distractors": []
+    },
+    {
+      "id": "R03_T3_P20",
+      "rule_id": "R03",
+      "text": "If O0O0O->0O0O0, 0O0O0->Z2Z2Z. Start O0O0O?",
+      "ground_truth": "Z2Z2Z",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P01",
+      "rule_id": "R04",
+      "text": "b6q9b or q9b6q. Not b6q9b?",
+      "ground_truth": "q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P02",
+      "rule_id": "R04",
+      "text": "b6q9b or q9b6q. Not b6q9b?",
+      "ground_truth": "q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P03",
+      "rule_id": "R04",
+      "text": "Z2Z2Z or 2Z2Z2. Not Z2Z2Z?",
+      "ground_truth": "2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P04",
+      "rule_id": "R04",
+      "text": "XKXZX or XZXKX. Not XKXZX?",
+      "ground_truth": "XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P05",
+      "rule_id": "R04",
+      "text": "O0O0O or 0O0O0. Not O0O0O?",
+      "ground_truth": "0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P06",
+      "rule_id": "R04",
+      "text": "O0O0O or 0O0O0. Not O0O0O?",
+      "ground_truth": "0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P07",
+      "rule_id": "R04",
+      "text": "Z2Z2Z or 2Z2Z2. Not Z2Z2Z?",
+      "ground_truth": "2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P08",
+      "rule_id": "R04",
+      "text": "pqbdp or bpqdb. Not pqbdp?",
+      "ground_truth": "bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P09",
+      "rule_id": "R04",
+      "text": "vvwwv or wwvvw. Not vvwwv?",
+      "ground_truth": "wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P10",
+      "rule_id": "R04",
+      "text": "XKXZX or XZXKX. Not XKXZX?",
+      "ground_truth": "XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P11",
+      "rule_id": "R04",
+      "text": "O0O0O or 0O0O0. Not O0O0O?",
+      "ground_truth": "0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P12",
+      "rule_id": "R04",
+      "text": "lIl1l or 1lI1l. Not lIl1l?",
+      "ground_truth": "1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P13",
+      "rule_id": "R04",
+      "text": "lIl1l or 1lI1l. Not lIl1l?",
+      "ground_truth": "1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P14",
+      "rule_id": "R04",
+      "text": "b6q9b or q9b6q. Not b6q9b?",
+      "ground_truth": "q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P15",
+      "rule_id": "R04",
+      "text": "S5S5S or 5S5S5. Not S5S5S?",
+      "ground_truth": "5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P16",
+      "rule_id": "R04",
+      "text": "XKXZX or XZXKX. Not XKXZX?",
+      "ground_truth": "XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P17",
+      "rule_id": "R04",
+      "text": "O0O0O or 0O0O0. Not O0O0O?",
+      "ground_truth": "0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P18",
+      "rule_id": "R04",
+      "text": "mnmnm or nmnmn. Not mnmnm?",
+      "ground_truth": "nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P19",
+      "rule_id": "R04",
+      "text": "pqbdp or bpqdb. Not pqbdp?",
+      "ground_truth": "bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R04_T3_P20",
+      "rule_id": "R04",
+      "text": "pqbdp or bpqdb. Not pqbdp?",
+      "ground_truth": "bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P01",
+      "rule_id": "R05",
+      "text": "If vvwwv->wwvvw. Contrapositive?",
+      "ground_truth": "If not wwvvw->not vvwwv",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P02",
+      "rule_id": "R05",
+      "text": "If Z2Z2Z->2Z2Z2. Contrapositive?",
+      "ground_truth": "If not 2Z2Z2->not Z2Z2Z",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P03",
+      "rule_id": "R05",
+      "text": "If pqbdp->bpqdb. Contrapositive?",
+      "ground_truth": "If not bpqdb->not pqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P04",
+      "rule_id": "R05",
+      "text": "If pqbdp->bpqdb. Contrapositive?",
+      "ground_truth": "If not bpqdb->not pqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P05",
+      "rule_id": "R05",
+      "text": "If mnmnm->nmnmn. Contrapositive?",
+      "ground_truth": "If not nmnmn->not mnmnm",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P06",
+      "rule_id": "R05",
+      "text": "If vvwwv->wwvvw. Contrapositive?",
+      "ground_truth": "If not wwvvw->not vvwwv",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P07",
+      "rule_id": "R05",
+      "text": "If O0O0O->0O0O0. Contrapositive?",
+      "ground_truth": "If not 0O0O0->not O0O0O",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P08",
+      "rule_id": "R05",
+      "text": "If mnmnm->nmnmn. Contrapositive?",
+      "ground_truth": "If not nmnmn->not mnmnm",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P09",
+      "rule_id": "R05",
+      "text": "If XKXZX->XZXKX. Contrapositive?",
+      "ground_truth": "If not XZXKX->not XKXZX",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P10",
+      "rule_id": "R05",
+      "text": "If S5S5S->5S5S5. Contrapositive?",
+      "ground_truth": "If not 5S5S5->not S5S5S",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P11",
+      "rule_id": "R05",
+      "text": "If Z2Z2Z->2Z2Z2. Contrapositive?",
+      "ground_truth": "If not 2Z2Z2->not Z2Z2Z",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P12",
+      "rule_id": "R05",
+      "text": "If dqpdb->dqbdp. Contrapositive?",
+      "ground_truth": "If not dqbdp->not dqpdb",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P13",
+      "rule_id": "R05",
+      "text": "If XKXZX->XZXKX. Contrapositive?",
+      "ground_truth": "If not XZXKX->not XKXZX",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P14",
+      "rule_id": "R05",
+      "text": "If vvwwv->wwvvw. Contrapositive?",
+      "ground_truth": "If not wwvvw->not vvwwv",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P15",
+      "rule_id": "R05",
+      "text": "If O0O0O->0O0O0. Contrapositive?",
+      "ground_truth": "If not 0O0O0->not O0O0O",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P16",
+      "rule_id": "R05",
+      "text": "If XKXZX->XZXKX. Contrapositive?",
+      "ground_truth": "If not XZXKX->not XKXZX",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P17",
+      "rule_id": "R05",
+      "text": "If lIl1l->1lI1l. Contrapositive?",
+      "ground_truth": "If not 1lI1l->not lIl1l",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P18",
+      "rule_id": "R05",
+      "text": "If dqpdb->dqbdp. Contrapositive?",
+      "ground_truth": "If not dqbdp->not dqpdb",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P19",
+      "rule_id": "R05",
+      "text": "If dqpdb->dqbdp. Contrapositive?",
+      "ground_truth": "If not dqbdp->not dqpdb",
+      "distractors": []
+    },
+    {
+      "id": "R05_T3_P20",
+      "rule_id": "R05",
+      "text": "If dqpdb->dqbdp. Contrapositive?",
+      "ground_truth": "If not dqbdp->not dqpdb",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P01",
+      "rule_id": "R06",
+      "text": "Not (vvwwv and wwvvw).",
+      "ground_truth": "Not vvwwv or Not wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P02",
+      "rule_id": "R06",
+      "text": "Not (pqbdp and bpqdb).",
+      "ground_truth": "Not pqbdp or Not bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P03",
+      "rule_id": "R06",
+      "text": "Not (dqpdb and dqbdp).",
+      "ground_truth": "Not dqpdb or Not dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P04",
+      "rule_id": "R06",
+      "text": "Not (b6q9b and q9b6q).",
+      "ground_truth": "Not b6q9b or Not q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P05",
+      "rule_id": "R06",
+      "text": "Not (vvwwv and wwvvw).",
+      "ground_truth": "Not vvwwv or Not wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P06",
+      "rule_id": "R06",
+      "text": "Not (b6q9b and q9b6q).",
+      "ground_truth": "Not b6q9b or Not q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P07",
+      "rule_id": "R06",
+      "text": "Not (O0O0O and 0O0O0).",
+      "ground_truth": "Not O0O0O or Not 0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P08",
+      "rule_id": "R06",
+      "text": "Not (XKXZX and XZXKX).",
+      "ground_truth": "Not XKXZX or Not XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P09",
+      "rule_id": "R06",
+      "text": "Not (mnmnm and nmnmn).",
+      "ground_truth": "Not mnmnm or Not nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P10",
+      "rule_id": "R06",
+      "text": "Not (dqpdb and dqbdp).",
+      "ground_truth": "Not dqpdb or Not dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P11",
+      "rule_id": "R06",
+      "text": "Not (lIl1l and 1lI1l).",
+      "ground_truth": "Not lIl1l or Not 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P12",
+      "rule_id": "R06",
+      "text": "Not (dqpdb and dqbdp).",
+      "ground_truth": "Not dqpdb or Not dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P13",
+      "rule_id": "R06",
+      "text": "Not (mnmnm and nmnmn).",
+      "ground_truth": "Not mnmnm or Not nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P14",
+      "rule_id": "R06",
+      "text": "Not (O0O0O and 0O0O0).",
+      "ground_truth": "Not O0O0O or Not 0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P15",
+      "rule_id": "R06",
+      "text": "Not (vvwwv and wwvvw).",
+      "ground_truth": "Not vvwwv or Not wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P16",
+      "rule_id": "R06",
+      "text": "Not (Z2Z2Z and 2Z2Z2).",
+      "ground_truth": "Not Z2Z2Z or Not 2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P17",
+      "rule_id": "R06",
+      "text": "Not (dqpdb and dqbdp).",
+      "ground_truth": "Not dqpdb or Not dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P18",
+      "rule_id": "R06",
+      "text": "Not (lIl1l and 1lI1l).",
+      "ground_truth": "Not lIl1l or Not 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P19",
+      "rule_id": "R06",
+      "text": "Not (XKXZX and XZXKX).",
+      "ground_truth": "Not XKXZX or Not XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R06_T3_P20",
+      "rule_id": "R06",
+      "text": "Not (XKXZX and XZXKX).",
+      "ground_truth": "Not XKXZX or Not XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P01",
+      "rule_id": "R07",
+      "text": "Not (S5S5S or 5S5S5).",
+      "ground_truth": "Not S5S5S and Not 5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P02",
+      "rule_id": "R07",
+      "text": "Not (XKXZX or XZXKX).",
+      "ground_truth": "Not XKXZX and Not XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P03",
+      "rule_id": "R07",
+      "text": "Not (lIl1l or 1lI1l).",
+      "ground_truth": "Not lIl1l and Not 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P04",
+      "rule_id": "R07",
+      "text": "Not (lIl1l or 1lI1l).",
+      "ground_truth": "Not lIl1l and Not 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P05",
+      "rule_id": "R07",
+      "text": "Not (dqpdb or dqbdp).",
+      "ground_truth": "Not dqpdb and Not dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P06",
+      "rule_id": "R07",
+      "text": "Not (dqpdb or dqbdp).",
+      "ground_truth": "Not dqpdb and Not dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P07",
+      "rule_id": "R07",
+      "text": "Not (Z2Z2Z or 2Z2Z2).",
+      "ground_truth": "Not Z2Z2Z and Not 2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P08",
+      "rule_id": "R07",
+      "text": "Not (dqpdb or dqbdp).",
+      "ground_truth": "Not dqpdb and Not dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P09",
+      "rule_id": "R07",
+      "text": "Not (dqpdb or dqbdp).",
+      "ground_truth": "Not dqpdb and Not dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P10",
+      "rule_id": "R07",
+      "text": "Not (O0O0O or 0O0O0).",
+      "ground_truth": "Not O0O0O and Not 0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P11",
+      "rule_id": "R07",
+      "text": "Not (lIl1l or 1lI1l).",
+      "ground_truth": "Not lIl1l and Not 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P12",
+      "rule_id": "R07",
+      "text": "Not (lIl1l or 1lI1l).",
+      "ground_truth": "Not lIl1l and Not 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P13",
+      "rule_id": "R07",
+      "text": "Not (S5S5S or 5S5S5).",
+      "ground_truth": "Not S5S5S and Not 5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P14",
+      "rule_id": "R07",
+      "text": "Not (pqbdp or bpqdb).",
+      "ground_truth": "Not pqbdp and Not bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P15",
+      "rule_id": "R07",
+      "text": "Not (mnmnm or nmnmn).",
+      "ground_truth": "Not mnmnm and Not nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P16",
+      "rule_id": "R07",
+      "text": "Not (lIl1l or 1lI1l).",
+      "ground_truth": "Not lIl1l and Not 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P17",
+      "rule_id": "R07",
+      "text": "Not (b6q9b or q9b6q).",
+      "ground_truth": "Not b6q9b and Not q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P18",
+      "rule_id": "R07",
+      "text": "Not (S5S5S or 5S5S5).",
+      "ground_truth": "Not S5S5S and Not 5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P19",
+      "rule_id": "R07",
+      "text": "Not (XKXZX or XZXKX).",
+      "ground_truth": "Not XKXZX and Not XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R07_T3_P20",
+      "rule_id": "R07",
+      "text": "Not (Z2Z2Z or 2Z2Z2).",
+      "ground_truth": "Not Z2Z2Z and Not 2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P01",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P02",
+      "rule_id": "R08",
+      "text": "It is not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P03",
+      "rule_id": "R08",
+      "text": "It is not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P04",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P05",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P06",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P07",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P08",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P09",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P10",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P11",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P12",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P13",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P14",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P15",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P16",
+      "rule_id": "R08",
+      "text": "It is not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P17",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P18",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P19",
+      "rule_id": "R08",
+      "text": "It is not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R08_T3_P20",
+      "rule_id": "R08",
+      "text": "It is not not not not not not not true that the sky is blue. What is the truth value of 'the sky is blue'?",
+      "ground_truth": "False",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P01",
+      "rule_id": "R09",
+      "text": "mnmnm>nmnmn, nmnmn>pqbdp. mnmnm vs pqbdp?",
+      "ground_truth": "mnmnm>pqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P02",
+      "rule_id": "R09",
+      "text": "S5S5S>5S5S5, 5S5S5>S5S5S. S5S5S vs S5S5S?",
+      "ground_truth": "S5S5S>S5S5S",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P03",
+      "rule_id": "R09",
+      "text": "vvwwv>wwvvw, wwvvw>b6q9b. vvwwv vs b6q9b?",
+      "ground_truth": "vvwwv>b6q9b",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P04",
+      "rule_id": "R09",
+      "text": "mnmnm>nmnmn, nmnmn>Z2Z2Z. mnmnm vs Z2Z2Z?",
+      "ground_truth": "mnmnm>Z2Z2Z",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P05",
+      "rule_id": "R09",
+      "text": "vvwwv>wwvvw, wwvvw>lIl1l. vvwwv vs lIl1l?",
+      "ground_truth": "vvwwv>lIl1l",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P06",
+      "rule_id": "R09",
+      "text": "S5S5S>5S5S5, 5S5S5>O0O0O. S5S5S vs O0O0O?",
+      "ground_truth": "S5S5S>O0O0O",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P07",
+      "rule_id": "R09",
+      "text": "S5S5S>5S5S5, 5S5S5>O0O0O. S5S5S vs O0O0O?",
+      "ground_truth": "S5S5S>O0O0O",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P08",
+      "rule_id": "R09",
+      "text": "mnmnm>nmnmn, nmnmn>mnmnm. mnmnm vs mnmnm?",
+      "ground_truth": "mnmnm>mnmnm",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P09",
+      "rule_id": "R09",
+      "text": "pqbdp>bpqdb, bpqdb>O0O0O. pqbdp vs O0O0O?",
+      "ground_truth": "pqbdp>O0O0O",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P10",
+      "rule_id": "R09",
+      "text": "XKXZX>XZXKX, XZXKX>dqpdb. XKXZX vs dqpdb?",
+      "ground_truth": "XKXZX>dqpdb",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P11",
+      "rule_id": "R09",
+      "text": "lIl1l>1lI1l, 1lI1l>vvwwv. lIl1l vs vvwwv?",
+      "ground_truth": "lIl1l>vvwwv",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P12",
+      "rule_id": "R09",
+      "text": "pqbdp>bpqdb, bpqdb>mnmnm. pqbdp vs mnmnm?",
+      "ground_truth": "pqbdp>mnmnm",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P13",
+      "rule_id": "R09",
+      "text": "lIl1l>1lI1l, 1lI1l>vvwwv. lIl1l vs vvwwv?",
+      "ground_truth": "lIl1l>vvwwv",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P14",
+      "rule_id": "R09",
+      "text": "b6q9b>q9b6q, q9b6q>Z2Z2Z. b6q9b vs Z2Z2Z?",
+      "ground_truth": "b6q9b>Z2Z2Z",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P15",
+      "rule_id": "R09",
+      "text": "dqpdb>dqbdp, dqbdp>O0O0O. dqpdb vs O0O0O?",
+      "ground_truth": "dqpdb>O0O0O",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P16",
+      "rule_id": "R09",
+      "text": "O0O0O>0O0O0, 0O0O0>pqbdp. O0O0O vs pqbdp?",
+      "ground_truth": "O0O0O>pqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P17",
+      "rule_id": "R09",
+      "text": "dqpdb>dqbdp, dqbdp>b6q9b. dqpdb vs b6q9b?",
+      "ground_truth": "dqpdb>b6q9b",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P18",
+      "rule_id": "R09",
+      "text": "S5S5S>5S5S5, 5S5S5>Z2Z2Z. S5S5S vs Z2Z2Z?",
+      "ground_truth": "S5S5S>Z2Z2Z",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P19",
+      "rule_id": "R09",
+      "text": "Z2Z2Z>2Z2Z2, 2Z2Z2>lIl1l. Z2Z2Z vs lIl1l?",
+      "ground_truth": "Z2Z2Z>lIl1l",
+      "distractors": []
+    },
+    {
+      "id": "R09_T3_P20",
+      "rule_id": "R09",
+      "text": "mnmnm>nmnmn, nmnmn>S5S5S. mnmnm vs S5S5S?",
+      "ground_truth": "mnmnm>S5S5S",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P01",
+      "rule_id": "R10",
+      "text": "Assume not mnmnm => collision. ?",
+      "ground_truth": "mnmnm is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P02",
+      "rule_id": "R10",
+      "text": "Assume not mnmnm => collision. ?",
+      "ground_truth": "mnmnm is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P03",
+      "rule_id": "R10",
+      "text": "Assume not dqpdb => collision. ?",
+      "ground_truth": "dqpdb is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P04",
+      "rule_id": "R10",
+      "text": "Assume not pqbdp => collision. ?",
+      "ground_truth": "pqbdp is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P05",
+      "rule_id": "R10",
+      "text": "Assume not b6q9b => collision. ?",
+      "ground_truth": "b6q9b is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P06",
+      "rule_id": "R10",
+      "text": "Assume not mnmnm => collision. ?",
+      "ground_truth": "mnmnm is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P07",
+      "rule_id": "R10",
+      "text": "Assume not XKXZX => collision. ?",
+      "ground_truth": "XKXZX is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P08",
+      "rule_id": "R10",
+      "text": "Assume not mnmnm => collision. ?",
+      "ground_truth": "mnmnm is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P09",
+      "rule_id": "R10",
+      "text": "Assume not mnmnm => collision. ?",
+      "ground_truth": "mnmnm is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P10",
+      "rule_id": "R10",
+      "text": "Assume not S5S5S => collision. ?",
+      "ground_truth": "S5S5S is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P11",
+      "rule_id": "R10",
+      "text": "Assume not mnmnm => collision. ?",
+      "ground_truth": "mnmnm is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P12",
+      "rule_id": "R10",
+      "text": "Assume not mnmnm => collision. ?",
+      "ground_truth": "mnmnm is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P13",
+      "rule_id": "R10",
+      "text": "Assume not S5S5S => collision. ?",
+      "ground_truth": "S5S5S is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P14",
+      "rule_id": "R10",
+      "text": "Assume not pqbdp => collision. ?",
+      "ground_truth": "pqbdp is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P15",
+      "rule_id": "R10",
+      "text": "Assume not b6q9b => collision. ?",
+      "ground_truth": "b6q9b is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P16",
+      "rule_id": "R10",
+      "text": "Assume not S5S5S => collision. ?",
+      "ground_truth": "S5S5S is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P17",
+      "rule_id": "R10",
+      "text": "Assume not b6q9b => collision. ?",
+      "ground_truth": "b6q9b is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P18",
+      "rule_id": "R10",
+      "text": "Assume not pqbdp => collision. ?",
+      "ground_truth": "pqbdp is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P19",
+      "rule_id": "R10",
+      "text": "Assume not lIl1l => collision. ?",
+      "ground_truth": "lIl1l is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T3_P20",
+      "rule_id": "R10",
+      "text": "Assume not O0O0O => collision. ?",
+      "ground_truth": "O0O0O is true",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P01",
+      "rule_id": "R11",
+      "text": "All S5S5S are 5S5S5. x is S5S5S. ?",
+      "ground_truth": "x is 5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P02",
+      "rule_id": "R11",
+      "text": "All dqpdb are dqbdp. x is dqpdb. ?",
+      "ground_truth": "x is dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P03",
+      "rule_id": "R11",
+      "text": "All XKXZX are XZXKX. x is XKXZX. ?",
+      "ground_truth": "x is XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P04",
+      "rule_id": "R11",
+      "text": "All lIl1l are 1lI1l. x is lIl1l. ?",
+      "ground_truth": "x is 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P05",
+      "rule_id": "R11",
+      "text": "All S5S5S are 5S5S5. x is S5S5S. ?",
+      "ground_truth": "x is 5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P06",
+      "rule_id": "R11",
+      "text": "All Z2Z2Z are 2Z2Z2. x is Z2Z2Z. ?",
+      "ground_truth": "x is 2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P07",
+      "rule_id": "R11",
+      "text": "All dqpdb are dqbdp. x is dqpdb. ?",
+      "ground_truth": "x is dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P08",
+      "rule_id": "R11",
+      "text": "All O0O0O are 0O0O0. x is O0O0O. ?",
+      "ground_truth": "x is 0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P09",
+      "rule_id": "R11",
+      "text": "All pqbdp are bpqdb. x is pqbdp. ?",
+      "ground_truth": "x is bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P10",
+      "rule_id": "R11",
+      "text": "All lIl1l are 1lI1l. x is lIl1l. ?",
+      "ground_truth": "x is 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P11",
+      "rule_id": "R11",
+      "text": "All lIl1l are 1lI1l. x is lIl1l. ?",
+      "ground_truth": "x is 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P12",
+      "rule_id": "R11",
+      "text": "All dqpdb are dqbdp. x is dqpdb. ?",
+      "ground_truth": "x is dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P13",
+      "rule_id": "R11",
+      "text": "All vvwwv are wwvvw. x is vvwwv. ?",
+      "ground_truth": "x is wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P14",
+      "rule_id": "R11",
+      "text": "All Z2Z2Z are 2Z2Z2. x is Z2Z2Z. ?",
+      "ground_truth": "x is 2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P15",
+      "rule_id": "R11",
+      "text": "All vvwwv are wwvvw. x is vvwwv. ?",
+      "ground_truth": "x is wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P16",
+      "rule_id": "R11",
+      "text": "All Z2Z2Z are 2Z2Z2. x is Z2Z2Z. ?",
+      "ground_truth": "x is 2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P17",
+      "rule_id": "R11",
+      "text": "All b6q9b are q9b6q. x is b6q9b. ?",
+      "ground_truth": "x is q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P18",
+      "rule_id": "R11",
+      "text": "All pqbdp are bpqdb. x is pqbdp. ?",
+      "ground_truth": "x is bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P19",
+      "rule_id": "R11",
+      "text": "All vvwwv are wwvvw. x is vvwwv. ?",
+      "ground_truth": "x is wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R11_T3_P20",
+      "rule_id": "R11",
+      "text": "All lIl1l are 1lI1l. x is lIl1l. ?",
+      "ground_truth": "x is 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P01",
+      "rule_id": "R12",
+      "text": "O0O0O iff 0O0O0. O0O0O is true. ?",
+      "ground_truth": "0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P02",
+      "rule_id": "R12",
+      "text": "S5S5S iff 5S5S5. S5S5S is true. ?",
+      "ground_truth": "5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P03",
+      "rule_id": "R12",
+      "text": "vvwwv iff wwvvw. vvwwv is true. ?",
+      "ground_truth": "wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P04",
+      "rule_id": "R12",
+      "text": "lIl1l iff 1lI1l. lIl1l is true. ?",
+      "ground_truth": "1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P05",
+      "rule_id": "R12",
+      "text": "mnmnm iff nmnmn. mnmnm is true. ?",
+      "ground_truth": "nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P06",
+      "rule_id": "R12",
+      "text": "lIl1l iff 1lI1l. lIl1l is true. ?",
+      "ground_truth": "1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P07",
+      "rule_id": "R12",
+      "text": "Z2Z2Z iff 2Z2Z2. Z2Z2Z is true. ?",
+      "ground_truth": "2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P08",
+      "rule_id": "R12",
+      "text": "lIl1l iff 1lI1l. lIl1l is true. ?",
+      "ground_truth": "1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P09",
+      "rule_id": "R12",
+      "text": "b6q9b iff q9b6q. b6q9b is true. ?",
+      "ground_truth": "q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P10",
+      "rule_id": "R12",
+      "text": "pqbdp iff bpqdb. pqbdp is true. ?",
+      "ground_truth": "bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P11",
+      "rule_id": "R12",
+      "text": "lIl1l iff 1lI1l. lIl1l is true. ?",
+      "ground_truth": "1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P12",
+      "rule_id": "R12",
+      "text": "vvwwv iff wwvvw. vvwwv is true. ?",
+      "ground_truth": "wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P13",
+      "rule_id": "R12",
+      "text": "XKXZX iff XZXKX. XKXZX is true. ?",
+      "ground_truth": "XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P14",
+      "rule_id": "R12",
+      "text": "vvwwv iff wwvvw. vvwwv is true. ?",
+      "ground_truth": "wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P15",
+      "rule_id": "R12",
+      "text": "XKXZX iff XZXKX. XKXZX is true. ?",
+      "ground_truth": "XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P16",
+      "rule_id": "R12",
+      "text": "XKXZX iff XZXKX. XKXZX is true. ?",
+      "ground_truth": "XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P17",
+      "rule_id": "R12",
+      "text": "S5S5S iff 5S5S5. S5S5S is true. ?",
+      "ground_truth": "5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P18",
+      "rule_id": "R12",
+      "text": "O0O0O iff 0O0O0. O0O0O is true. ?",
+      "ground_truth": "0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P19",
+      "rule_id": "R12",
+      "text": "S5S5S iff 5S5S5. S5S5S is true. ?",
+      "ground_truth": "5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R12_T3_P20",
+      "rule_id": "R12",
+      "text": "mnmnm iff nmnmn. mnmnm is true. ?",
+      "ground_truth": "nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P01",
+      "rule_id": "R13",
+      "text": "(lIl1l->1lI1l) & (XKXZX->XZXKX). lIl1l or XKXZX. ?",
+      "ground_truth": "1lI1l or XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P02",
+      "rule_id": "R13",
+      "text": "(lIl1l->1lI1l) & (dqpdb->dqbdp). lIl1l or dqpdb. ?",
+      "ground_truth": "1lI1l or dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P03",
+      "rule_id": "R13",
+      "text": "(Z2Z2Z->2Z2Z2) & (S5S5S->5S5S5). Z2Z2Z or S5S5S. ?",
+      "ground_truth": "2Z2Z2 or 5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P04",
+      "rule_id": "R13",
+      "text": "(dqpdb->dqbdp) & (vvwwv->wwvvw). dqpdb or vvwwv. ?",
+      "ground_truth": "dqbdp or wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P05",
+      "rule_id": "R13",
+      "text": "(XKXZX->XZXKX) & (lIl1l->1lI1l). XKXZX or lIl1l. ?",
+      "ground_truth": "XZXKX or 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P06",
+      "rule_id": "R13",
+      "text": "(pqbdp->bpqdb) & (vvwwv->wwvvw). pqbdp or vvwwv. ?",
+      "ground_truth": "bpqdb or wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P07",
+      "rule_id": "R13",
+      "text": "(pqbdp->bpqdb) & (vvwwv->wwvvw). pqbdp or vvwwv. ?",
+      "ground_truth": "bpqdb or wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P08",
+      "rule_id": "R13",
+      "text": "(dqpdb->dqbdp) & (dqpdb->dqbdp). dqpdb or dqpdb. ?",
+      "ground_truth": "dqbdp or dqbdp",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P09",
+      "rule_id": "R13",
+      "text": "(pqbdp->bpqdb) & (XKXZX->XZXKX). pqbdp or XKXZX. ?",
+      "ground_truth": "bpqdb or XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P10",
+      "rule_id": "R13",
+      "text": "(pqbdp->bpqdb) & (mnmnm->nmnmn). pqbdp or mnmnm. ?",
+      "ground_truth": "bpqdb or nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P11",
+      "rule_id": "R13",
+      "text": "(Z2Z2Z->2Z2Z2) & (vvwwv->wwvvw). Z2Z2Z or vvwwv. ?",
+      "ground_truth": "2Z2Z2 or wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P12",
+      "rule_id": "R13",
+      "text": "(mnmnm->nmnmn) & (vvwwv->wwvvw). mnmnm or vvwwv. ?",
+      "ground_truth": "nmnmn or wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P13",
+      "rule_id": "R13",
+      "text": "(b6q9b->q9b6q) & (XKXZX->XZXKX). b6q9b or XKXZX. ?",
+      "ground_truth": "q9b6q or XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P14",
+      "rule_id": "R13",
+      "text": "(mnmnm->nmnmn) & (vvwwv->wwvvw). mnmnm or vvwwv. ?",
+      "ground_truth": "nmnmn or wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P15",
+      "rule_id": "R13",
+      "text": "(O0O0O->0O0O0) & (vvwwv->wwvvw). O0O0O or vvwwv. ?",
+      "ground_truth": "0O0O0 or wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P16",
+      "rule_id": "R13",
+      "text": "(pqbdp->bpqdb) & (pqbdp->bpqdb). pqbdp or pqbdp. ?",
+      "ground_truth": "bpqdb or bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P17",
+      "rule_id": "R13",
+      "text": "(b6q9b->q9b6q) & (S5S5S->5S5S5). b6q9b or S5S5S. ?",
+      "ground_truth": "q9b6q or 5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P18",
+      "rule_id": "R13",
+      "text": "(vvwwv->wwvvw) & (pqbdp->bpqdb). vvwwv or pqbdp. ?",
+      "ground_truth": "wwvvw or bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P19",
+      "rule_id": "R13",
+      "text": "(Z2Z2Z->2Z2Z2) & (XKXZX->XZXKX). Z2Z2Z or XKXZX. ?",
+      "ground_truth": "2Z2Z2 or XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R13_T3_P20",
+      "rule_id": "R13",
+      "text": "(vvwwv->wwvvw) & (lIl1l->1lI1l). vvwwv or lIl1l. ?",
+      "ground_truth": "wwvvw or 1lI1l",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P01",
+      "rule_id": "R14",
+      "text": "XKXZX->XZXKX. Absorb.",
+      "ground_truth": "XKXZX->(XKXZX & XZXKX)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P02",
+      "rule_id": "R14",
+      "text": "b6q9b->q9b6q. Absorb.",
+      "ground_truth": "b6q9b->(b6q9b & q9b6q)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P03",
+      "rule_id": "R14",
+      "text": "O0O0O->0O0O0. Absorb.",
+      "ground_truth": "O0O0O->(O0O0O & 0O0O0)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P04",
+      "rule_id": "R14",
+      "text": "pqbdp->bpqdb. Absorb.",
+      "ground_truth": "pqbdp->(pqbdp & bpqdb)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P05",
+      "rule_id": "R14",
+      "text": "XKXZX->XZXKX. Absorb.",
+      "ground_truth": "XKXZX->(XKXZX & XZXKX)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P06",
+      "rule_id": "R14",
+      "text": "XKXZX->XZXKX. Absorb.",
+      "ground_truth": "XKXZX->(XKXZX & XZXKX)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P07",
+      "rule_id": "R14",
+      "text": "pqbdp->bpqdb. Absorb.",
+      "ground_truth": "pqbdp->(pqbdp & bpqdb)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P08",
+      "rule_id": "R14",
+      "text": "vvwwv->wwvvw. Absorb.",
+      "ground_truth": "vvwwv->(vvwwv & wwvvw)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P09",
+      "rule_id": "R14",
+      "text": "lIl1l->1lI1l. Absorb.",
+      "ground_truth": "lIl1l->(lIl1l & 1lI1l)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P10",
+      "rule_id": "R14",
+      "text": "mnmnm->nmnmn. Absorb.",
+      "ground_truth": "mnmnm->(mnmnm & nmnmn)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P11",
+      "rule_id": "R14",
+      "text": "pqbdp->bpqdb. Absorb.",
+      "ground_truth": "pqbdp->(pqbdp & bpqdb)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P12",
+      "rule_id": "R14",
+      "text": "mnmnm->nmnmn. Absorb.",
+      "ground_truth": "mnmnm->(mnmnm & nmnmn)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P13",
+      "rule_id": "R14",
+      "text": "vvwwv->wwvvw. Absorb.",
+      "ground_truth": "vvwwv->(vvwwv & wwvvw)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P14",
+      "rule_id": "R14",
+      "text": "pqbdp->bpqdb. Absorb.",
+      "ground_truth": "pqbdp->(pqbdp & bpqdb)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P15",
+      "rule_id": "R14",
+      "text": "vvwwv->wwvvw. Absorb.",
+      "ground_truth": "vvwwv->(vvwwv & wwvvw)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P16",
+      "rule_id": "R14",
+      "text": "dqpdb->dqbdp. Absorb.",
+      "ground_truth": "dqpdb->(dqpdb & dqbdp)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P17",
+      "rule_id": "R14",
+      "text": "lIl1l->1lI1l. Absorb.",
+      "ground_truth": "lIl1l->(lIl1l & 1lI1l)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P18",
+      "rule_id": "R14",
+      "text": "mnmnm->nmnmn. Absorb.",
+      "ground_truth": "mnmnm->(mnmnm & nmnmn)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P19",
+      "rule_id": "R14",
+      "text": "O0O0O->0O0O0. Absorb.",
+      "ground_truth": "O0O0O->(O0O0O & 0O0O0)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T3_P20",
+      "rule_id": "R14",
+      "text": "dqpdb->dqbdp. Absorb.",
+      "ground_truth": "dqpdb->(dqpdb & dqbdp)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P01",
+      "rule_id": "R15",
+      "text": "b6q9b->q9b6q. Disjunction.",
+      "ground_truth": "Not b6q9b or q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P02",
+      "rule_id": "R15",
+      "text": "b6q9b->q9b6q. Disjunction.",
+      "ground_truth": "Not b6q9b or q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P03",
+      "rule_id": "R15",
+      "text": "b6q9b->q9b6q. Disjunction.",
+      "ground_truth": "Not b6q9b or q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P04",
+      "rule_id": "R15",
+      "text": "b6q9b->q9b6q. Disjunction.",
+      "ground_truth": "Not b6q9b or q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P05",
+      "rule_id": "R15",
+      "text": "Z2Z2Z->2Z2Z2. Disjunction.",
+      "ground_truth": "Not Z2Z2Z or 2Z2Z2",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P06",
+      "rule_id": "R15",
+      "text": "mnmnm->nmnmn. Disjunction.",
+      "ground_truth": "Not mnmnm or nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P07",
+      "rule_id": "R15",
+      "text": "XKXZX->XZXKX. Disjunction.",
+      "ground_truth": "Not XKXZX or XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P08",
+      "rule_id": "R15",
+      "text": "pqbdp->bpqdb. Disjunction.",
+      "ground_truth": "Not pqbdp or bpqdb",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P09",
+      "rule_id": "R15",
+      "text": "mnmnm->nmnmn. Disjunction.",
+      "ground_truth": "Not mnmnm or nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P10",
+      "rule_id": "R15",
+      "text": "O0O0O->0O0O0. Disjunction.",
+      "ground_truth": "Not O0O0O or 0O0O0",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P11",
+      "rule_id": "R15",
+      "text": "vvwwv->wwvvw. Disjunction.",
+      "ground_truth": "Not vvwwv or wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P12",
+      "rule_id": "R15",
+      "text": "mnmnm->nmnmn. Disjunction.",
+      "ground_truth": "Not mnmnm or nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P13",
+      "rule_id": "R15",
+      "text": "vvwwv->wwvvw. Disjunction.",
+      "ground_truth": "Not vvwwv or wwvvw",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P14",
+      "rule_id": "R15",
+      "text": "b6q9b->q9b6q. Disjunction.",
+      "ground_truth": "Not b6q9b or q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P15",
+      "rule_id": "R15",
+      "text": "mnmnm->nmnmn. Disjunction.",
+      "ground_truth": "Not mnmnm or nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P16",
+      "rule_id": "R15",
+      "text": "mnmnm->nmnmn. Disjunction.",
+      "ground_truth": "Not mnmnm or nmnmn",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P17",
+      "rule_id": "R15",
+      "text": "XKXZX->XZXKX. Disjunction.",
+      "ground_truth": "Not XKXZX or XZXKX",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P18",
+      "rule_id": "R15",
+      "text": "S5S5S->5S5S5. Disjunction.",
+      "ground_truth": "Not S5S5S or 5S5S5",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P19",
+      "rule_id": "R15",
+      "text": "b6q9b->q9b6q. Disjunction.",
+      "ground_truth": "Not b6q9b or q9b6q",
+      "distractors": []
+    },
+    {
+      "id": "R15_T3_P20",
+      "rule_id": "R15",
+      "text": "XKXZX->XZXKX. Disjunction.",
+      "ground_truth": "Not XKXZX or XZXKX",
+      "distractors": []
+    }
+  ]
+}

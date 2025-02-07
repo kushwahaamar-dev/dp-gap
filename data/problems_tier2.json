@@ -1,0 +1,2104 @@
+{
+  "problems": [
+    {
+      "id": "R01_T2_P01",
+      "rule_id": "R01",
+      "text": "If ((A ∧ E) → (D ∧ C)), then ((B ∧ G) → (A ∧ B)). We know that ((A ∧ E) → (D ∧ C)) is true. What follows?",
+      "ground_truth": "((B ∧ G) → (A ∧ B)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P02",
+      "rule_id": "R01",
+      "text": "If ((A ∧ D) ∧ (G → D)), then ((E → A) ∨ (G ∧ F)). We know that ((A ∧ D) ∧ (G → D)) is true. What follows?",
+      "ground_truth": "((E → A) ∨ (G ∧ F)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P03",
+      "rule_id": "R01",
+      "text": "If ((D ∧ F) ∨ (B ∧ G)), then ((F ∨ E) ∧ (H ∧ B)). We know that ((D ∧ F) ∨ (B ∧ G)) is true. What follows?",
+      "ground_truth": "((F ∨ E) ∧ (H ∧ B)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P04",
+      "rule_id": "R01",
+      "text": "If ((E ∧ F) ∨ (D → B)), then ((D → E) ∧ (D ∧ B)). We know that ((E ∧ F) ∨ (D → B)) is true. What follows?",
+      "ground_truth": "((D → E) ∧ (D ∧ B)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P05",
+      "rule_id": "R01",
+      "text": "If ((H ∨ F) ∨ (F ∧ F)), then ((E → B) ∧ (C → D)). We know that ((H ∨ F) ∨ (F ∧ F)) is true. What follows?",
+      "ground_truth": "((E → B) ∧ (C → D)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P06",
+      "rule_id": "R01",
+      "text": "If ((G ∨ E) ∧ (D → F)), then ((A ∧ F) ∧ (E ∨ B)). We know that ((G ∨ E) ∧ (D → F)) is true. What follows?",
+      "ground_truth": "((A ∧ F) ∧ (E ∨ B)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P07",
+      "rule_id": "R01",
+      "text": "If ((F → D) ∧ (H → G)), then ((C ∨ E) → (D ∧ E)). We know that ((F → D) ∧ (H → G)) is true. What follows?",
+      "ground_truth": "((C ∨ E) → (D ∧ E)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P08",
+      "rule_id": "R01",
+      "text": "If ((G → G) → (D ∨ C)), then ((B ∨ A) → (C ∧ C)). We know that ((G → G) → (D ∨ C)) is true. What follows?",
+      "ground_truth": "((B ∨ A) → (C ∧ C)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P09",
+      "rule_id": "R01",
+      "text": "If ((B ∨ G) → (H ∨ E)), then ((B ∧ E) → (F → B)). We know that ((B ∨ G) → (H ∨ E)) is true. What follows?",
+      "ground_truth": "((B ∧ E) → (F → B)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P10",
+      "rule_id": "R01",
+      "text": "If ((C ∨ H) ∨ (E ∧ C)), then ((E ∧ D) → (F ∧ C)). We know that ((C ∨ H) ∨ (E ∧ C)) is true. What follows?",
+      "ground_truth": "((E ∧ D) → (F ∧ C)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P11",
+      "rule_id": "R01",
+      "text": "If ((A → F) → (A ∨ B)), then ((D ∨ A) ∨ (B ∧ B)). We know that ((A → F) → (A ∨ B)) is true. What follows?",
+      "ground_truth": "((D ∨ A) ∨ (B ∧ B)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P12",
+      "rule_id": "R01",
+      "text": "If ((B ∨ C) → (H ∧ C)), then ((G → D) ∨ (D → E)). We know that ((B ∨ C) → (H ∧ C)) is true. What follows?",
+      "ground_truth": "((G → D) ∨ (D → E)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P13",
+      "rule_id": "R01",
+      "text": "If ((F → H) ∨ (H → B)), then ((B ∧ F) ∧ (D ∧ D)). We know that ((F → H) ∨ (H → B)) is true. What follows?",
+      "ground_truth": "((B ∧ F) ∧ (D ∧ D)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P14",
+      "rule_id": "R01",
+      "text": "If ((A ∧ D) ∧ (A ∧ F)), then ((D → E) ∧ (H → D)). We know that ((A ∧ D) ∧ (A ∧ F)) is true. What follows?",
+      "ground_truth": "((D → E) ∧ (H → D)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P15",
+      "rule_id": "R01",
+      "text": "If ((H ∧ D) → (G ∨ D)), then ((G ∧ F) ∧ (G ∨ H)). We know that ((H ∧ D) → (G ∨ D)) is true. What follows?",
+      "ground_truth": "((G ∧ F) ∧ (G ∨ H)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P16",
+      "rule_id": "R01",
+      "text": "If ((B ∧ A) → (F ∨ B)), then ((D ∧ H) ∧ (G ∧ C)). We know that ((B ∧ A) → (F ∨ B)) is true. What follows?",
+      "ground_truth": "((D ∧ H) ∧ (G ∧ C)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P17",
+      "rule_id": "R01",
+      "text": "If ((D ∨ B) ∨ (B ∨ A)), then ((A → B) → (C ∧ G)). We know that ((D ∨ B) ∨ (B ∨ A)) is true. What follows?",
+      "ground_truth": "((A → B) → (C ∧ G)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P18",
+      "rule_id": "R01",
+      "text": "If ((D ∨ G) ∨ (C ∧ G)), then ((E ∨ H) ∧ (G ∨ H)). We know that ((D ∨ G) ∨ (C ∧ G)) is true. What follows?",
+      "ground_truth": "((E ∨ H) ∧ (G ∨ H)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P19",
+      "rule_id": "R01",
+      "text": "If ((E ∧ D) ∧ (A ∧ F)), then ((H ∧ C) ∧ (B ∧ C)). We know that ((E ∧ D) ∧ (A ∧ F)) is true. What follows?",
+      "ground_truth": "((H ∧ C) ∧ (B ∧ C)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R01_T2_P20",
+      "rule_id": "R01",
+      "text": "If ((B → D) ∧ (B ∨ D)), then ((A → B) → (F ∨ E)). We know that ((B → D) ∧ (B ∨ D)) is true. What follows?",
+      "ground_truth": "((A → B) → (F ∨ E)) is true.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P01",
+      "rule_id": "R02",
+      "text": "If ((F → D) ∧ (G ∨ C)), then ((E → H) → (B ∨ A)). We know that ((E → H) → (B ∨ A)) is false. What follows?",
+      "ground_truth": "((F → D) ∧ (G ∨ C)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P02",
+      "rule_id": "R02",
+      "text": "If ((B → B) ∨ (D → E)), then ((B ∨ D) ∧ (E ∨ C)). We know that ((B ∨ D) ∧ (E ∨ C)) is false. What follows?",
+      "ground_truth": "((B → B) ∨ (D → E)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P03",
+      "rule_id": "R02",
+      "text": "If ((E → A) ∨ (E → B)), then ((B ∨ B) ∧ (C → E)). We know that ((B ∨ B) ∧ (C → E)) is false. What follows?",
+      "ground_truth": "((E → A) ∨ (E → B)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P04",
+      "rule_id": "R02",
+      "text": "If ((D → F) ∨ (E ∧ H)), then ((B ∧ G) ∨ (A ∨ A)). We know that ((B ∧ G) ∨ (A ∨ A)) is false. What follows?",
+      "ground_truth": "((D → F) ∨ (E ∧ H)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P05",
+      "rule_id": "R02",
+      "text": "If ((E ∧ C) ∨ (H → G)), then ((B ∧ B) → (C → A)). We know that ((B ∧ B) → (C → A)) is false. What follows?",
+      "ground_truth": "((E ∧ C) ∨ (H → G)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P06",
+      "rule_id": "R02",
+      "text": "If ((C → G) ∨ (A ∧ E)), then ((F ∧ D) ∨ (D → B)). We know that ((F ∧ D) ∨ (D → B)) is false. What follows?",
+      "ground_truth": "((C → G) ∨ (A ∧ E)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P07",
+      "rule_id": "R02",
+      "text": "If ((G → C) ∨ (C ∧ C)), then ((C ∧ F) ∨ (D ∨ E)). We know that ((C ∧ F) ∨ (D ∨ E)) is false. What follows?",
+      "ground_truth": "((G → C) ∨ (C ∧ C)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P08",
+      "rule_id": "R02",
+      "text": "If ((B → G) ∧ (H ∧ D)), then ((F ∨ E) ∧ (D ∧ A)). We know that ((F ∨ E) ∧ (D ∧ A)) is false. What follows?",
+      "ground_truth": "((B → G) ∧ (H ∧ D)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P09",
+      "rule_id": "R02",
+      "text": "If ((G ∧ F) → (B ∨ E)), then ((G → F) ∨ (B ∧ E)). We know that ((G → F) ∨ (B ∧ E)) is false. What follows?",
+      "ground_truth": "((G ∧ F) → (B ∨ E)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P10",
+      "rule_id": "R02",
+      "text": "If ((E → A) ∧ (G ∧ F)), then ((G ∨ B) → (D ∨ E)). We know that ((G ∨ B) → (D ∨ E)) is false. What follows?",
+      "ground_truth": "((E → A) ∧ (G ∧ F)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P11",
+      "rule_id": "R02",
+      "text": "If ((G → A) ∧ (D → F)), then ((F ∧ F) ∨ (B → E)). We know that ((F ∧ F) ∨ (B → E)) is false. What follows?",
+      "ground_truth": "((G → A) ∧ (D → F)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P12",
+      "rule_id": "R02",
+      "text": "If ((G ∨ F) → (E ∨ C)), then ((G ∨ C) ∧ (E → G)). We know that ((G ∨ C) ∧ (E → G)) is false. What follows?",
+      "ground_truth": "((G ∨ F) → (E ∨ C)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P13",
+      "rule_id": "R02",
+      "text": "If ((E ∧ E) → (G ∧ F)), then ((H ∨ D) ∨ (H → C)). We know that ((H ∨ D) ∨ (H → C)) is false. What follows?",
+      "ground_truth": "((E ∧ E) → (G ∧ F)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P14",
+      "rule_id": "R02",
+      "text": "If ((E ∧ F) → (D ∧ E)), then ((C ∧ A) ∧ (D ∧ H)). We know that ((C ∧ A) ∧ (D ∧ H)) is false. What follows?",
+      "ground_truth": "((E ∧ F) → (D ∧ E)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P15",
+      "rule_id": "R02",
+      "text": "If ((H ∧ G) → (D → G)), then ((D ∨ C) ∨ (A → B)). We know that ((D ∨ C) ∨ (A → B)) is false. What follows?",
+      "ground_truth": "((H ∧ G) → (D → G)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P16",
+      "rule_id": "R02",
+      "text": "If ((C ∧ H) ∨ (D ∧ B)), then ((H ∧ F) ∨ (G ∨ H)). We know that ((H ∧ F) ∨ (G ∨ H)) is false. What follows?",
+      "ground_truth": "((C ∧ H) ∨ (D ∧ B)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P17",
+      "rule_id": "R02",
+      "text": "If ((H → H) ∧ (D ∨ E)), then ((D ∨ E) → (B ∨ E)). We know that ((D ∨ E) → (B ∨ E)) is false. What follows?",
+      "ground_truth": "((H → H) ∧ (D ∨ E)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P18",
+      "rule_id": "R02",
+      "text": "If ((F ∨ F) ∧ (B → C)), then ((G ∧ C) ∧ (D → B)). We know that ((G ∧ C) ∧ (D → B)) is false. What follows?",
+      "ground_truth": "((F ∨ F) ∧ (B → C)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P19",
+      "rule_id": "R02",
+      "text": "If ((F ∨ H) ∨ (A ∨ D)), then ((A ∨ G) ∨ (A ∨ F)). We know that ((A ∨ G) ∨ (A ∨ F)) is false. What follows?",
+      "ground_truth": "((F ∨ H) ∨ (A ∨ D)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R02_T2_P20",
+      "rule_id": "R02",
+      "text": "If ((G ∨ D) ∨ (D ∨ E)), then ((A ∨ G) ∨ (G ∨ C)). We know that ((A ∨ G) ∨ (G ∨ C)) is false. What follows?",
+      "ground_truth": "((G ∨ D) ∨ (D ∨ E)) is false.",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P01",
+      "rule_id": "R03",
+      "text": "If (C ∨ A) -> (A ∨ B), and (A ∨ B) -> (G → C). What follows?",
+      "ground_truth": "(C ∨ A) -> (G → C)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P02",
+      "rule_id": "R03",
+      "text": "If (C ∨ A) -> (G ∨ F), and (G ∨ F) -> (H ∧ F). What follows?",
+      "ground_truth": "(C ∨ A) -> (H ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P03",
+      "rule_id": "R03",
+      "text": "If (G ∨ E) -> (E ∨ B), and (E ∨ B) -> (A ∨ A). What follows?",
+      "ground_truth": "(G ∨ E) -> (A ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P04",
+      "rule_id": "R03",
+      "text": "If (D ∨ B) -> (A → A), and (A → A) -> (D ∧ A). What follows?",
+      "ground_truth": "(D ∨ B) -> (D ∧ A)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P05",
+      "rule_id": "R03",
+      "text": "If (C → D) -> (H ∧ B), and (H ∧ B) -> (D → H). What follows?",
+      "ground_truth": "(C → D) -> (D → H)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P06",
+      "rule_id": "R03",
+      "text": "If (E → F) -> (B ∧ C), and (B ∧ C) -> (B ∨ A). What follows?",
+      "ground_truth": "(E → F) -> (B ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P07",
+      "rule_id": "R03",
+      "text": "If (G ∨ G) -> (D → B), and (D → B) -> (D → B). What follows?",
+      "ground_truth": "(G ∨ G) -> (D → B)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P08",
+      "rule_id": "R03",
+      "text": "If (E → B) -> (A → F), and (A → F) -> (G → F). What follows?",
+      "ground_truth": "(E → B) -> (G → F)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P09",
+      "rule_id": "R03",
+      "text": "If (F ∧ A) -> (H ∨ B), and (H ∨ B) -> (F ∨ H). What follows?",
+      "ground_truth": "(F ∧ A) -> (F ∨ H)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P10",
+      "rule_id": "R03",
+      "text": "If (C → G) -> (E ∧ H), and (E ∧ H) -> (G ∨ E). What follows?",
+      "ground_truth": "(C → G) -> (G ∨ E)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P11",
+      "rule_id": "R03",
+      "text": "If (D ∨ B) -> (H ∨ D), and (H ∨ D) -> (G ∨ F). What follows?",
+      "ground_truth": "(D ∨ B) -> (G ∨ F)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P12",
+      "rule_id": "R03",
+      "text": "If (H ∧ F) -> (H ∧ D), and (H ∧ D) -> (E ∨ F). What follows?",
+      "ground_truth": "(H ∧ F) -> (E ∨ F)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P13",
+      "rule_id": "R03",
+      "text": "If (E ∨ A) -> (D → B), and (D → B) -> (G ∧ H). What follows?",
+      "ground_truth": "(E ∨ A) -> (G ∧ H)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P14",
+      "rule_id": "R03",
+      "text": "If (D → H) -> (H → H), and (H → H) -> (B ∧ E). What follows?",
+      "ground_truth": "(D → H) -> (B ∧ E)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P15",
+      "rule_id": "R03",
+      "text": "If (G ∧ D) -> (F ∨ H), and (F ∨ H) -> (F → G). What follows?",
+      "ground_truth": "(G ∧ D) -> (F → G)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P16",
+      "rule_id": "R03",
+      "text": "If (F → F) -> (H → E), and (H → E) -> (E ∨ D). What follows?",
+      "ground_truth": "(F → F) -> (E ∨ D)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P17",
+      "rule_id": "R03",
+      "text": "If (D ∧ F) -> (C ∧ D), and (C ∧ D) -> (H ∧ E). What follows?",
+      "ground_truth": "(D ∧ F) -> (H ∧ E)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P18",
+      "rule_id": "R03",
+      "text": "If (E → B) -> (E ∧ D), and (E ∧ D) -> (C ∨ E). What follows?",
+      "ground_truth": "(E → B) -> (C ∨ E)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P19",
+      "rule_id": "R03",
+      "text": "If (C ∧ E) -> (A ∧ E), and (A ∧ E) -> (C → H). What follows?",
+      "ground_truth": "(C ∧ E) -> (C → H)",
+      "distractors": []
+    },
+    {
+      "id": "R03_T2_P20",
+      "rule_id": "R03",
+      "text": "If (A ∧ E) -> (H ∨ H), and (H ∨ H) -> (C ∨ A). What follows?",
+      "ground_truth": "(A ∧ E) -> (C ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P01",
+      "rule_id": "R04",
+      "text": "Either (H ∨ B) or (G ∧ H). It is not the case that (H ∨ B). What follows?",
+      "ground_truth": "(G ∧ H) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P02",
+      "rule_id": "R04",
+      "text": "Either (E ∧ B) or (B ∧ G). It is not the case that (E ∧ B). What follows?",
+      "ground_truth": "(B ∧ G) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P03",
+      "rule_id": "R04",
+      "text": "Either (H ∨ E) or (G → E). It is not the case that (H ∨ E). What follows?",
+      "ground_truth": "(G → E) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P04",
+      "rule_id": "R04",
+      "text": "Either (D ∧ E) or (B → C). It is not the case that (D ∧ E). What follows?",
+      "ground_truth": "(B → C) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P05",
+      "rule_id": "R04",
+      "text": "Either (A ∧ G) or (H ∨ E). It is not the case that (A ∧ G). What follows?",
+      "ground_truth": "(H ∨ E) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P06",
+      "rule_id": "R04",
+      "text": "Either (E → H) or (D ∧ E). It is not the case that (E → H). What follows?",
+      "ground_truth": "(D ∧ E) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P07",
+      "rule_id": "R04",
+      "text": "Either (D ∧ C) or (C ∨ B). It is not the case that (D ∧ C). What follows?",
+      "ground_truth": "(C ∨ B) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P08",
+      "rule_id": "R04",
+      "text": "Either (E → H) or (H ∧ E). It is not the case that (E → H). What follows?",
+      "ground_truth": "(H ∧ E) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P09",
+      "rule_id": "R04",
+      "text": "Either (H → H) or (A ∧ G). It is not the case that (H → H). What follows?",
+      "ground_truth": "(A ∧ G) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P10",
+      "rule_id": "R04",
+      "text": "Either (B ∧ D) or (A → E). It is not the case that (B ∧ D). What follows?",
+      "ground_truth": "(A → E) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P11",
+      "rule_id": "R04",
+      "text": "Either (H ∨ E) or (G ∧ H). It is not the case that (H ∨ E). What follows?",
+      "ground_truth": "(G ∧ H) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P12",
+      "rule_id": "R04",
+      "text": "Either (F ∨ F) or (B → C). It is not the case that (F ∨ F). What follows?",
+      "ground_truth": "(B → C) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P13",
+      "rule_id": "R04",
+      "text": "Either (G ∨ A) or (B ∨ F). It is not the case that (G ∨ A). What follows?",
+      "ground_truth": "(B ∨ F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P14",
+      "rule_id": "R04",
+      "text": "Either (A ∨ H) or (A ∨ D). It is not the case that (A ∨ H). What follows?",
+      "ground_truth": "(A ∨ D) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P15",
+      "rule_id": "R04",
+      "text": "Either (H → A) or (E ∧ C). It is not the case that (H → A). What follows?",
+      "ground_truth": "(E ∧ C) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P16",
+      "rule_id": "R04",
+      "text": "Either (A ∧ D) or (C → E). It is not the case that (A ∧ D). What follows?",
+      "ground_truth": "(C → E) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P17",
+      "rule_id": "R04",
+      "text": "Either (D ∧ B) or (B ∨ C). It is not the case that (D ∧ B). What follows?",
+      "ground_truth": "(B ∨ C) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P18",
+      "rule_id": "R04",
+      "text": "Either (H ∨ H) or (H ∧ C). It is not the case that (H ∨ H). What follows?",
+      "ground_truth": "(H ∧ C) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P19",
+      "rule_id": "R04",
+      "text": "Either (E ∧ G) or (E ∨ A). It is not the case that (E ∧ G). What follows?",
+      "ground_truth": "(E ∨ A) is true",
+      "distractors": []
+    },
+    {
+      "id": "R04_T2_P20",
+      "rule_id": "R04",
+      "text": "Either (H ∧ H) or (F ∨ G). It is not the case that (H ∧ H). What follows?",
+      "ground_truth": "(F ∨ G) is true",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P01",
+      "rule_id": "R05",
+      "text": "If (D → G) -> (G ∧ A). What is the contrapositive?",
+      "ground_truth": "If not (G ∧ A) -> not (D → G)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P02",
+      "rule_id": "R05",
+      "text": "If (C ∨ H) -> (C ∧ F). What is the contrapositive?",
+      "ground_truth": "If not (C ∧ F) -> not (C ∨ H)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P03",
+      "rule_id": "R05",
+      "text": "If (H → A) -> (C → G). What is the contrapositive?",
+      "ground_truth": "If not (C → G) -> not (H → A)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P04",
+      "rule_id": "R05",
+      "text": "If (E ∨ F) -> (G → B). What is the contrapositive?",
+      "ground_truth": "If not (G → B) -> not (E ∨ F)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P05",
+      "rule_id": "R05",
+      "text": "If (H → A) -> (B → D). What is the contrapositive?",
+      "ground_truth": "If not (B → D) -> not (H → A)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P06",
+      "rule_id": "R05",
+      "text": "If (B → G) -> (B ∧ H). What is the contrapositive?",
+      "ground_truth": "If not (B ∧ H) -> not (B → G)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P07",
+      "rule_id": "R05",
+      "text": "If (F ∧ A) -> (F ∨ F). What is the contrapositive?",
+      "ground_truth": "If not (F ∨ F) -> not (F ∧ A)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P08",
+      "rule_id": "R05",
+      "text": "If (G → C) -> (C ∧ B). What is the contrapositive?",
+      "ground_truth": "If not (C ∧ B) -> not (G → C)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P09",
+      "rule_id": "R05",
+      "text": "If (C ∨ D) -> (E ∨ H). What is the contrapositive?",
+      "ground_truth": "If not (E ∨ H) -> not (C ∨ D)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P10",
+      "rule_id": "R05",
+      "text": "If (C ∨ B) -> (F ∨ E). What is the contrapositive?",
+      "ground_truth": "If not (F ∨ E) -> not (C ∨ B)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P11",
+      "rule_id": "R05",
+      "text": "If (E ∨ D) -> (H ∨ B). What is the contrapositive?",
+      "ground_truth": "If not (H ∨ B) -> not (E ∨ D)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P12",
+      "rule_id": "R05",
+      "text": "If (E → E) -> (G ∧ E). What is the contrapositive?",
+      "ground_truth": "If not (G ∧ E) -> not (E → E)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P13",
+      "rule_id": "R05",
+      "text": "If (D ∨ F) -> (D ∧ E). What is the contrapositive?",
+      "ground_truth": "If not (D ∧ E) -> not (D ∨ F)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P14",
+      "rule_id": "R05",
+      "text": "If (A → E) -> (A ∨ F). What is the contrapositive?",
+      "ground_truth": "If not (A ∨ F) -> not (A → E)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P15",
+      "rule_id": "R05",
+      "text": "If (F ∨ G) -> (D ∧ C). What is the contrapositive?",
+      "ground_truth": "If not (D ∧ C) -> not (F ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P16",
+      "rule_id": "R05",
+      "text": "If (E ∧ H) -> (F ∨ B). What is the contrapositive?",
+      "ground_truth": "If not (F ∨ B) -> not (E ∧ H)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P17",
+      "rule_id": "R05",
+      "text": "If (G ∧ F) -> (G ∧ A). What is the contrapositive?",
+      "ground_truth": "If not (G ∧ A) -> not (G ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P18",
+      "rule_id": "R05",
+      "text": "If (E ∨ G) -> (F → B). What is the contrapositive?",
+      "ground_truth": "If not (F → B) -> not (E ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P19",
+      "rule_id": "R05",
+      "text": "If (F ∧ D) -> (B → H). What is the contrapositive?",
+      "ground_truth": "If not (B → H) -> not (F ∧ D)",
+      "distractors": []
+    },
+    {
+      "id": "R05_T2_P20",
+      "rule_id": "R05",
+      "text": "If (C ∧ A) -> (E ∧ H). What is the contrapositive?",
+      "ground_truth": "If not (E ∧ H) -> not (C ∧ A)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P01",
+      "rule_id": "R06",
+      "text": "Not ((C → G) and (F ∨ G)). Rewrite.",
+      "ground_truth": "Not (C → G) or Not (F ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P02",
+      "rule_id": "R06",
+      "text": "Not ((B → H) and (G → E)). Rewrite.",
+      "ground_truth": "Not (B → H) or Not (G → E)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P03",
+      "rule_id": "R06",
+      "text": "Not ((H ∨ D) and (B ∨ F)). Rewrite.",
+      "ground_truth": "Not (H ∨ D) or Not (B ∨ F)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P04",
+      "rule_id": "R06",
+      "text": "Not ((E ∨ D) and (H ∧ B)). Rewrite.",
+      "ground_truth": "Not (E ∨ D) or Not (H ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P05",
+      "rule_id": "R06",
+      "text": "Not ((F ∧ D) and (D ∧ B)). Rewrite.",
+      "ground_truth": "Not (F ∧ D) or Not (D ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P06",
+      "rule_id": "R06",
+      "text": "Not ((F ∧ C) and (A → E)). Rewrite.",
+      "ground_truth": "Not (F ∧ C) or Not (A → E)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P07",
+      "rule_id": "R06",
+      "text": "Not ((B ∧ A) and (A ∧ F)). Rewrite.",
+      "ground_truth": "Not (B ∧ A) or Not (A ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P08",
+      "rule_id": "R06",
+      "text": "Not ((E ∧ A) and (G ∧ B)). Rewrite.",
+      "ground_truth": "Not (E ∧ A) or Not (G ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P09",
+      "rule_id": "R06",
+      "text": "Not ((F ∨ B) and (D ∨ A)). Rewrite.",
+      "ground_truth": "Not (F ∨ B) or Not (D ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P10",
+      "rule_id": "R06",
+      "text": "Not ((A → A) and (G ∨ G)). Rewrite.",
+      "ground_truth": "Not (A → A) or Not (G ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P11",
+      "rule_id": "R06",
+      "text": "Not ((H → B) and (F ∧ C)). Rewrite.",
+      "ground_truth": "Not (H → B) or Not (F ∧ C)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P12",
+      "rule_id": "R06",
+      "text": "Not ((F → G) and (E → H)). Rewrite.",
+      "ground_truth": "Not (F → G) or Not (E → H)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P13",
+      "rule_id": "R06",
+      "text": "Not ((B → D) and (H ∨ D)). Rewrite.",
+      "ground_truth": "Not (B → D) or Not (H ∨ D)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P14",
+      "rule_id": "R06",
+      "text": "Not ((G ∨ B) and (G ∨ F)). Rewrite.",
+      "ground_truth": "Not (G ∨ B) or Not (G ∨ F)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P15",
+      "rule_id": "R06",
+      "text": "Not ((H ∧ B) and (B ∧ B)). Rewrite.",
+      "ground_truth": "Not (H ∧ B) or Not (B ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P16",
+      "rule_id": "R06",
+      "text": "Not ((A ∧ F) and (B → G)). Rewrite.",
+      "ground_truth": "Not (A ∧ F) or Not (B → G)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P17",
+      "rule_id": "R06",
+      "text": "Not ((E ∨ F) and (D ∧ C)). Rewrite.",
+      "ground_truth": "Not (E ∨ F) or Not (D ∧ C)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P18",
+      "rule_id": "R06",
+      "text": "Not ((F ∧ F) and (E ∧ D)). Rewrite.",
+      "ground_truth": "Not (F ∧ F) or Not (E ∧ D)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P19",
+      "rule_id": "R06",
+      "text": "Not ((C ∧ E) and (E → F)). Rewrite.",
+      "ground_truth": "Not (C ∧ E) or Not (E → F)",
+      "distractors": []
+    },
+    {
+      "id": "R06_T2_P20",
+      "rule_id": "R06",
+      "text": "Not ((G ∧ B) and (A ∧ B)). Rewrite.",
+      "ground_truth": "Not (G ∧ B) or Not (A ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P01",
+      "rule_id": "R07",
+      "text": "Not ((H ∨ F) or (F ∧ E)). Rewrite.",
+      "ground_truth": "Not (H ∨ F) and Not (F ∧ E)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P02",
+      "rule_id": "R07",
+      "text": "Not ((C ∧ C) or (A → B)). Rewrite.",
+      "ground_truth": "Not (C ∧ C) and Not (A → B)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P03",
+      "rule_id": "R07",
+      "text": "Not ((H ∨ G) or (D ∨ B)). Rewrite.",
+      "ground_truth": "Not (H ∨ G) and Not (D ∨ B)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P04",
+      "rule_id": "R07",
+      "text": "Not ((H ∨ E) or (D ∧ G)). Rewrite.",
+      "ground_truth": "Not (H ∨ E) and Not (D ∧ G)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P05",
+      "rule_id": "R07",
+      "text": "Not ((E ∧ D) or (E ∧ E)). Rewrite.",
+      "ground_truth": "Not (E ∧ D) and Not (E ∧ E)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P06",
+      "rule_id": "R07",
+      "text": "Not ((G ∨ C) or (G ∧ D)). Rewrite.",
+      "ground_truth": "Not (G ∨ C) and Not (G ∧ D)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P07",
+      "rule_id": "R07",
+      "text": "Not ((A ∨ G) or (H ∧ B)). Rewrite.",
+      "ground_truth": "Not (A ∨ G) and Not (H ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P08",
+      "rule_id": "R07",
+      "text": "Not ((G → E) or (G ∧ A)). Rewrite.",
+      "ground_truth": "Not (G → E) and Not (G ∧ A)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P09",
+      "rule_id": "R07",
+      "text": "Not ((F → B) or (B ∨ D)). Rewrite.",
+      "ground_truth": "Not (F → B) and Not (B ∨ D)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P10",
+      "rule_id": "R07",
+      "text": "Not ((E ∨ F) or (F ∧ C)). Rewrite.",
+      "ground_truth": "Not (E ∨ F) and Not (F ∧ C)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P11",
+      "rule_id": "R07",
+      "text": "Not ((F ∨ C) or (B ∧ C)). Rewrite.",
+      "ground_truth": "Not (F ∨ C) and Not (B ∧ C)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P12",
+      "rule_id": "R07",
+      "text": "Not ((C → B) or (H ∧ H)). Rewrite.",
+      "ground_truth": "Not (C → B) and Not (H ∧ H)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P13",
+      "rule_id": "R07",
+      "text": "Not ((F → C) or (B ∨ H)). Rewrite.",
+      "ground_truth": "Not (F → C) and Not (B ∨ H)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P14",
+      "rule_id": "R07",
+      "text": "Not ((A → F) or (B → E)). Rewrite.",
+      "ground_truth": "Not (A → F) and Not (B → E)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P15",
+      "rule_id": "R07",
+      "text": "Not ((F ∧ E) or (B ∧ G)). Rewrite.",
+      "ground_truth": "Not (F ∧ E) and Not (B ∧ G)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P16",
+      "rule_id": "R07",
+      "text": "Not ((D → F) or (H → C)). Rewrite.",
+      "ground_truth": "Not (D → F) and Not (H → C)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P17",
+      "rule_id": "R07",
+      "text": "Not ((B ∨ C) or (D ∧ H)). Rewrite.",
+      "ground_truth": "Not (B ∨ C) and Not (D ∧ H)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P18",
+      "rule_id": "R07",
+      "text": "Not ((E ∨ G) or (F ∨ A)). Rewrite.",
+      "ground_truth": "Not (E ∨ G) and Not (F ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P19",
+      "rule_id": "R07",
+      "text": "Not ((B ∨ G) or (E ∨ C)). Rewrite.",
+      "ground_truth": "Not (B ∨ G) and Not (E ∨ C)",
+      "distractors": []
+    },
+    {
+      "id": "R07_T2_P20",
+      "rule_id": "R07",
+      "text": "Not ((E ∨ G) or (B ∧ E)). Rewrite.",
+      "ground_truth": "Not (E ∨ G) and Not (B ∧ E)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P01",
+      "rule_id": "R08",
+      "text": "Not (not (B ∧ G)). Simplify.",
+      "ground_truth": "(B ∧ G)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P02",
+      "rule_id": "R08",
+      "text": "Not (not (F ∧ H)). Simplify.",
+      "ground_truth": "(F ∧ H)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P03",
+      "rule_id": "R08",
+      "text": "Not (not (A ∧ F)). Simplify.",
+      "ground_truth": "(A ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P04",
+      "rule_id": "R08",
+      "text": "Not (not (C → H)). Simplify.",
+      "ground_truth": "(C → H)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P05",
+      "rule_id": "R08",
+      "text": "Not (not (E → H)). Simplify.",
+      "ground_truth": "(E → H)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P06",
+      "rule_id": "R08",
+      "text": "Not (not (H → H)). Simplify.",
+      "ground_truth": "(H → H)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P07",
+      "rule_id": "R08",
+      "text": "Not (not (A ∨ H)). Simplify.",
+      "ground_truth": "(A ∨ H)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P08",
+      "rule_id": "R08",
+      "text": "Not (not (H ∨ C)). Simplify.",
+      "ground_truth": "(H ∨ C)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P09",
+      "rule_id": "R08",
+      "text": "Not (not (A ∨ G)). Simplify.",
+      "ground_truth": "(A ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P10",
+      "rule_id": "R08",
+      "text": "Not (not (A ∧ F)). Simplify.",
+      "ground_truth": "(A ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P11",
+      "rule_id": "R08",
+      "text": "Not (not (C ∨ H)). Simplify.",
+      "ground_truth": "(C ∨ H)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P12",
+      "rule_id": "R08",
+      "text": "Not (not (G ∧ B)). Simplify.",
+      "ground_truth": "(G ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P13",
+      "rule_id": "R08",
+      "text": "Not (not (H ∨ B)). Simplify.",
+      "ground_truth": "(H ∨ B)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P14",
+      "rule_id": "R08",
+      "text": "Not (not (G ∨ A)). Simplify.",
+      "ground_truth": "(G ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P15",
+      "rule_id": "R08",
+      "text": "Not (not (B → F)). Simplify.",
+      "ground_truth": "(B → F)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P16",
+      "rule_id": "R08",
+      "text": "Not (not (E ∨ A)). Simplify.",
+      "ground_truth": "(E ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P17",
+      "rule_id": "R08",
+      "text": "Not (not (A ∧ F)). Simplify.",
+      "ground_truth": "(A ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P18",
+      "rule_id": "R08",
+      "text": "Not (not (C → C)). Simplify.",
+      "ground_truth": "(C → C)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P19",
+      "rule_id": "R08",
+      "text": "Not (not (A ∧ F)). Simplify.",
+      "ground_truth": "(A ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R08_T2_P20",
+      "rule_id": "R08",
+      "text": "Not (not (F ∨ A)). Simplify.",
+      "ground_truth": "(F ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P01",
+      "rule_id": "R09",
+      "text": "(H ∨ G) > (C ∨ H) and (C ∨ H) > (H → F). What follows?",
+      "ground_truth": "(H ∨ G) > (H → F)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P02",
+      "rule_id": "R09",
+      "text": "(E → B) > (G → B) and (G → B) > (C ∨ E). What follows?",
+      "ground_truth": "(E → B) > (C ∨ E)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P03",
+      "rule_id": "R09",
+      "text": "(B ∨ B) > (E ∨ E) and (E ∨ E) > (G ∨ C). What follows?",
+      "ground_truth": "(B ∨ B) > (G ∨ C)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P04",
+      "rule_id": "R09",
+      "text": "(H → F) > (A ∨ F) and (A ∨ F) > (G → E). What follows?",
+      "ground_truth": "(H → F) > (G → E)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P05",
+      "rule_id": "R09",
+      "text": "(A → B) > (G → F) and (G → F) > (C → A). What follows?",
+      "ground_truth": "(A → B) > (C → A)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P06",
+      "rule_id": "R09",
+      "text": "(H ∧ A) > (B ∧ D) and (B ∧ D) > (F → F). What follows?",
+      "ground_truth": "(H ∧ A) > (F → F)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P07",
+      "rule_id": "R09",
+      "text": "(A ∨ C) > (H → F) and (H → F) > (H ∨ B). What follows?",
+      "ground_truth": "(A ∨ C) > (H ∨ B)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P08",
+      "rule_id": "R09",
+      "text": "(C → F) > (F ∨ E) and (F ∨ E) > (B ∧ A). What follows?",
+      "ground_truth": "(C → F) > (B ∧ A)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P09",
+      "rule_id": "R09",
+      "text": "(C → H) > (G → B) and (G → B) > (E ∨ H). What follows?",
+      "ground_truth": "(C → H) > (E ∨ H)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P10",
+      "rule_id": "R09",
+      "text": "(E ∧ H) > (B ∧ C) and (B ∧ C) > (H ∧ C). What follows?",
+      "ground_truth": "(E ∧ H) > (H ∧ C)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P11",
+      "rule_id": "R09",
+      "text": "(H → B) > (F → F) and (F → F) > (B → E). What follows?",
+      "ground_truth": "(H → B) > (B → E)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P12",
+      "rule_id": "R09",
+      "text": "(C ∨ C) > (D ∨ B) and (D ∨ B) > (C ∧ D). What follows?",
+      "ground_truth": "(C ∨ C) > (C ∧ D)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P13",
+      "rule_id": "R09",
+      "text": "(A ∨ F) > (F → H) and (F → H) > (C → B). What follows?",
+      "ground_truth": "(A ∨ F) > (C → B)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P14",
+      "rule_id": "R09",
+      "text": "(E ∧ G) > (H → G) and (H → G) > (B ∨ C). What follows?",
+      "ground_truth": "(E ∧ G) > (B ∨ C)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P15",
+      "rule_id": "R09",
+      "text": "(B ∨ H) > (F ∨ C) and (F ∨ C) > (C → C). What follows?",
+      "ground_truth": "(B ∨ H) > (C → C)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P16",
+      "rule_id": "R09",
+      "text": "(A ∨ B) > (C → E) and (C → E) > (C ∧ F). What follows?",
+      "ground_truth": "(A ∨ B) > (C ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P17",
+      "rule_id": "R09",
+      "text": "(D → F) > (E → B) and (E → B) > (D ∨ E). What follows?",
+      "ground_truth": "(D → F) > (D ∨ E)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P18",
+      "rule_id": "R09",
+      "text": "(E ∧ B) > (C → C) and (C → C) > (F ∧ A). What follows?",
+      "ground_truth": "(E ∧ B) > (F ∧ A)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P19",
+      "rule_id": "R09",
+      "text": "(B ∧ A) > (E → D) and (E → D) > (G → A). What follows?",
+      "ground_truth": "(B ∧ A) > (G → A)",
+      "distractors": []
+    },
+    {
+      "id": "R09_T2_P20",
+      "rule_id": "R09",
+      "text": "(E ∨ E) > (D ∨ G) and (D ∨ G) > (H ∨ B). What follows?",
+      "ground_truth": "(E ∨ E) > (H ∨ B)",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P01",
+      "rule_id": "R10",
+      "text": "Assume not (A → C). This implies (G ∨ H) and not (G ∨ H). What follows?",
+      "ground_truth": "(A → C) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P02",
+      "rule_id": "R10",
+      "text": "Assume not (C → F). This implies (F → F) and not (F → F). What follows?",
+      "ground_truth": "(C → F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P03",
+      "rule_id": "R10",
+      "text": "Assume not (B → F). This implies (H ∧ B) and not (H ∧ B). What follows?",
+      "ground_truth": "(B → F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P04",
+      "rule_id": "R10",
+      "text": "Assume not (B ∧ A). This implies (G ∨ G) and not (G ∨ G). What follows?",
+      "ground_truth": "(B ∧ A) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P05",
+      "rule_id": "R10",
+      "text": "Assume not (F → D). This implies (H ∧ H) and not (H ∧ H). What follows?",
+      "ground_truth": "(F → D) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P06",
+      "rule_id": "R10",
+      "text": "Assume not (B ∧ G). This implies (H → D) and not (H → D). What follows?",
+      "ground_truth": "(B ∧ G) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P07",
+      "rule_id": "R10",
+      "text": "Assume not (E ∧ H). This implies (H → E) and not (H → E). What follows?",
+      "ground_truth": "(E ∧ H) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P08",
+      "rule_id": "R10",
+      "text": "Assume not (C ∨ E). This implies (F → G) and not (F → G). What follows?",
+      "ground_truth": "(C ∨ E) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P09",
+      "rule_id": "R10",
+      "text": "Assume not (D ∧ F). This implies (E → B) and not (E → B). What follows?",
+      "ground_truth": "(D ∧ F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P10",
+      "rule_id": "R10",
+      "text": "Assume not (B → C). This implies (G ∧ F) and not (G ∧ F). What follows?",
+      "ground_truth": "(B → C) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P11",
+      "rule_id": "R10",
+      "text": "Assume not (G ∧ A). This implies (A ∧ C) and not (A ∧ C). What follows?",
+      "ground_truth": "(G ∧ A) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P12",
+      "rule_id": "R10",
+      "text": "Assume not (H → C). This implies (C → F) and not (C → F). What follows?",
+      "ground_truth": "(H → C) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P13",
+      "rule_id": "R10",
+      "text": "Assume not (E ∨ F). This implies (H → E) and not (H → E). What follows?",
+      "ground_truth": "(E ∨ F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P14",
+      "rule_id": "R10",
+      "text": "Assume not (B ∨ G). This implies (E → A) and not (E → A). What follows?",
+      "ground_truth": "(B ∨ G) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P15",
+      "rule_id": "R10",
+      "text": "Assume not (D → A). This implies (H → C) and not (H → C). What follows?",
+      "ground_truth": "(D → A) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P16",
+      "rule_id": "R10",
+      "text": "Assume not (D → A). This implies (B → D) and not (B → D). What follows?",
+      "ground_truth": "(D → A) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P17",
+      "rule_id": "R10",
+      "text": "Assume not (C ∨ G). This implies (D → G) and not (D → G). What follows?",
+      "ground_truth": "(C ∨ G) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P18",
+      "rule_id": "R10",
+      "text": "Assume not (C → D). This implies (F → H) and not (F → H). What follows?",
+      "ground_truth": "(C → D) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P19",
+      "rule_id": "R10",
+      "text": "Assume not (H ∧ F). This implies (F → E) and not (F → E). What follows?",
+      "ground_truth": "(H ∧ F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R10_T2_P20",
+      "rule_id": "R10",
+      "text": "Assume not (E ∧ E). This implies (E ∧ E) and not (E ∧ E). What follows?",
+      "ground_truth": "(E ∧ E) is true",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P01",
+      "rule_id": "R11",
+      "text": "All items satisfying (H ∨ F) have property (E → E). Item X satisfies (H ∨ F). Conclusion?",
+      "ground_truth": "X has (E → E)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P02",
+      "rule_id": "R11",
+      "text": "All items satisfying (C ∨ E) have property (E ∧ B). Item X satisfies (C ∨ E). Conclusion?",
+      "ground_truth": "X has (E ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P03",
+      "rule_id": "R11",
+      "text": "All items satisfying (H → D) have property (E ∧ E). Item X satisfies (H → D). Conclusion?",
+      "ground_truth": "X has (E ∧ E)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P04",
+      "rule_id": "R11",
+      "text": "All items satisfying (A ∧ D) have property (D → A). Item X satisfies (A ∧ D). Conclusion?",
+      "ground_truth": "X has (D → A)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P05",
+      "rule_id": "R11",
+      "text": "All items satisfying (H → B) have property (C → A). Item X satisfies (H → B). Conclusion?",
+      "ground_truth": "X has (C → A)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P06",
+      "rule_id": "R11",
+      "text": "All items satisfying (H → H) have property (D → E). Item X satisfies (H → H). Conclusion?",
+      "ground_truth": "X has (D → E)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P07",
+      "rule_id": "R11",
+      "text": "All items satisfying (D ∧ A) have property (G ∧ C). Item X satisfies (D ∧ A). Conclusion?",
+      "ground_truth": "X has (G ∧ C)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P08",
+      "rule_id": "R11",
+      "text": "All items satisfying (E ∧ A) have property (E ∧ B). Item X satisfies (E ∧ A). Conclusion?",
+      "ground_truth": "X has (E ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P09",
+      "rule_id": "R11",
+      "text": "All items satisfying (H → C) have property (H → E). Item X satisfies (H → C). Conclusion?",
+      "ground_truth": "X has (H → E)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P10",
+      "rule_id": "R11",
+      "text": "All items satisfying (H ∧ E) have property (C → A). Item X satisfies (H ∧ E). Conclusion?",
+      "ground_truth": "X has (C → A)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P11",
+      "rule_id": "R11",
+      "text": "All items satisfying (D → C) have property (G → G). Item X satisfies (D → C). Conclusion?",
+      "ground_truth": "X has (G → G)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P12",
+      "rule_id": "R11",
+      "text": "All items satisfying (B ∨ C) have property (H ∧ F). Item X satisfies (B ∨ C). Conclusion?",
+      "ground_truth": "X has (H ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P13",
+      "rule_id": "R11",
+      "text": "All items satisfying (D ∨ H) have property (F ∨ E). Item X satisfies (D ∨ H). Conclusion?",
+      "ground_truth": "X has (F ∨ E)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P14",
+      "rule_id": "R11",
+      "text": "All items satisfying (F → D) have property (B ∧ H). Item X satisfies (F → D). Conclusion?",
+      "ground_truth": "X has (B ∧ H)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P15",
+      "rule_id": "R11",
+      "text": "All items satisfying (E → B) have property (E → F). Item X satisfies (E → B). Conclusion?",
+      "ground_truth": "X has (E → F)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P16",
+      "rule_id": "R11",
+      "text": "All items satisfying (H ∧ C) have property (F ∨ G). Item X satisfies (H ∧ C). Conclusion?",
+      "ground_truth": "X has (F ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P17",
+      "rule_id": "R11",
+      "text": "All items satisfying (B ∧ H) have property (F → B). Item X satisfies (B ∧ H). Conclusion?",
+      "ground_truth": "X has (F → B)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P18",
+      "rule_id": "R11",
+      "text": "All items satisfying (D → C) have property (F ∧ H). Item X satisfies (D → C). Conclusion?",
+      "ground_truth": "X has (F ∧ H)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P19",
+      "rule_id": "R11",
+      "text": "All items satisfying (H ∧ A) have property (C ∨ G). Item X satisfies (H ∧ A). Conclusion?",
+      "ground_truth": "X has (C ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R11_T2_P20",
+      "rule_id": "R11",
+      "text": "All items satisfying (E → A) have property (E ∨ A). Item X satisfies (E → A). Conclusion?",
+      "ground_truth": "X has (E ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P01",
+      "rule_id": "R12",
+      "text": "(G ∧ F) iff (B → A). (G ∧ F) is true. Conclusion?",
+      "ground_truth": "(B → A) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P02",
+      "rule_id": "R12",
+      "text": "(G ∨ C) iff (G ∧ F). (G ∨ C) is true. Conclusion?",
+      "ground_truth": "(G ∧ F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P03",
+      "rule_id": "R12",
+      "text": "(B ∨ C) iff (F → B). (B ∨ C) is true. Conclusion?",
+      "ground_truth": "(F → B) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P04",
+      "rule_id": "R12",
+      "text": "(D → A) iff (E ∧ H). (D → A) is true. Conclusion?",
+      "ground_truth": "(E ∧ H) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P05",
+      "rule_id": "R12",
+      "text": "(D ∧ H) iff (C ∨ E). (D ∧ H) is true. Conclusion?",
+      "ground_truth": "(C ∨ E) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P06",
+      "rule_id": "R12",
+      "text": "(G → A) iff (D ∧ B). (G → A) is true. Conclusion?",
+      "ground_truth": "(D ∧ B) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P07",
+      "rule_id": "R12",
+      "text": "(A → D) iff (A → G). (A → D) is true. Conclusion?",
+      "ground_truth": "(A → G) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P08",
+      "rule_id": "R12",
+      "text": "(C ∧ E) iff (F ∧ F). (C ∧ E) is true. Conclusion?",
+      "ground_truth": "(F ∧ F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P09",
+      "rule_id": "R12",
+      "text": "(D → G) iff (E ∨ A). (D → G) is true. Conclusion?",
+      "ground_truth": "(E ∨ A) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P10",
+      "rule_id": "R12",
+      "text": "(H → A) iff (G ∨ F). (H → A) is true. Conclusion?",
+      "ground_truth": "(G ∨ F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P11",
+      "rule_id": "R12",
+      "text": "(E ∧ G) iff (H ∧ D). (E ∧ G) is true. Conclusion?",
+      "ground_truth": "(H ∧ D) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P12",
+      "rule_id": "R12",
+      "text": "(A ∨ G) iff (C ∨ G). (A ∨ G) is true. Conclusion?",
+      "ground_truth": "(C ∨ G) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P13",
+      "rule_id": "R12",
+      "text": "(B ∨ H) iff (B ∨ D). (B ∨ H) is true. Conclusion?",
+      "ground_truth": "(B ∨ D) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P14",
+      "rule_id": "R12",
+      "text": "(A → B) iff (D ∧ H). (A → B) is true. Conclusion?",
+      "ground_truth": "(D ∧ H) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P15",
+      "rule_id": "R12",
+      "text": "(D ∧ D) iff (B → H). (D ∧ D) is true. Conclusion?",
+      "ground_truth": "(B → H) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P16",
+      "rule_id": "R12",
+      "text": "(F ∧ E) iff (H ∨ F). (F ∧ E) is true. Conclusion?",
+      "ground_truth": "(H ∨ F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P17",
+      "rule_id": "R12",
+      "text": "(H → H) iff (H ∧ F). (H → H) is true. Conclusion?",
+      "ground_truth": "(H ∧ F) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P18",
+      "rule_id": "R12",
+      "text": "(A ∨ D) iff (C → A). (A ∨ D) is true. Conclusion?",
+      "ground_truth": "(C → A) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P19",
+      "rule_id": "R12",
+      "text": "(D ∧ F) iff (G ∧ D). (D ∧ F) is true. Conclusion?",
+      "ground_truth": "(G ∧ D) is true",
+      "distractors": []
+    },
+    {
+      "id": "R12_T2_P20",
+      "rule_id": "R12",
+      "text": "(H ∨ H) iff (F ∧ C). (H ∨ H) is true. Conclusion?",
+      "ground_truth": "(F ∧ C) is true",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P01",
+      "rule_id": "R13",
+      "text": "((A → A)->(A ∧ A)) and ((C ∨ D)->(A → A)). (A → A) or (C ∨ D) is true. Conclusion?",
+      "ground_truth": "(A ∧ A) or (A → A)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P02",
+      "rule_id": "R13",
+      "text": "((C ∧ A)->(H ∧ F)) and ((H ∧ H)->(C ∧ A)). (C ∧ A) or (H ∧ H) is true. Conclusion?",
+      "ground_truth": "(H ∧ F) or (C ∧ A)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P03",
+      "rule_id": "R13",
+      "text": "((A ∧ G)->(A ∧ E)) and ((E → A)->(A ∧ G)). (A ∧ G) or (E → A) is true. Conclusion?",
+      "ground_truth": "(A ∧ E) or (A ∧ G)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P04",
+      "rule_id": "R13",
+      "text": "((G → C)->(B ∧ C)) and ((D ∧ E)->(G → C)). (G → C) or (D ∧ E) is true. Conclusion?",
+      "ground_truth": "(B ∧ C) or (G → C)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P05",
+      "rule_id": "R13",
+      "text": "((E ∨ G)->(F ∧ G)) and ((D ∨ D)->(E ∨ G)). (E ∨ G) or (D ∨ D) is true. Conclusion?",
+      "ground_truth": "(F ∧ G) or (E ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P06",
+      "rule_id": "R13",
+      "text": "((B ∨ A)->(G ∧ G)) and ((H ∨ A)->(B ∨ A)). (B ∨ A) or (H ∨ A) is true. Conclusion?",
+      "ground_truth": "(G ∧ G) or (B ∨ A)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P07",
+      "rule_id": "R13",
+      "text": "((A → C)->(H ∧ G)) and ((F → B)->(A → C)). (A → C) or (F → B) is true. Conclusion?",
+      "ground_truth": "(H ∧ G) or (A → C)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P08",
+      "rule_id": "R13",
+      "text": "((A → D)->(H ∧ E)) and ((B ∧ E)->(A → D)). (A → D) or (B ∧ E) is true. Conclusion?",
+      "ground_truth": "(H ∧ E) or (A → D)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P09",
+      "rule_id": "R13",
+      "text": "((A → C)->(A ∨ D)) and ((C → G)->(A → C)). (A → C) or (C → G) is true. Conclusion?",
+      "ground_truth": "(A ∨ D) or (A → C)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P10",
+      "rule_id": "R13",
+      "text": "((E ∧ C)->(D → G)) and ((F → G)->(E ∧ C)). (E ∧ C) or (F → G) is true. Conclusion?",
+      "ground_truth": "(D → G) or (E ∧ C)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P11",
+      "rule_id": "R13",
+      "text": "((C → B)->(F → A)) and ((G ∧ D)->(C → B)). (C → B) or (G ∧ D) is true. Conclusion?",
+      "ground_truth": "(F → A) or (C → B)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P12",
+      "rule_id": "R13",
+      "text": "((F ∧ G)->(A ∨ E)) and ((H ∨ D)->(F ∧ G)). (F ∧ G) or (H ∨ D) is true. Conclusion?",
+      "ground_truth": "(A ∨ E) or (F ∧ G)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P13",
+      "rule_id": "R13",
+      "text": "((G ∨ G)->(G ∧ B)) and ((E → D)->(G ∨ G)). (G ∨ G) or (E → D) is true. Conclusion?",
+      "ground_truth": "(G ∧ B) or (G ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P14",
+      "rule_id": "R13",
+      "text": "((B → B)->(C ∨ G)) and ((C → G)->(B → B)). (B → B) or (C → G) is true. Conclusion?",
+      "ground_truth": "(C ∨ G) or (B → B)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P15",
+      "rule_id": "R13",
+      "text": "((F ∨ B)->(A ∧ E)) and ((F ∨ E)->(F ∨ B)). (F ∨ B) or (F ∨ E) is true. Conclusion?",
+      "ground_truth": "(A ∧ E) or (F ∨ B)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P16",
+      "rule_id": "R13",
+      "text": "((C ∧ B)->(G ∧ H)) and ((G → B)->(C ∧ B)). (C ∧ B) or (G → B) is true. Conclusion?",
+      "ground_truth": "(G ∧ H) or (C ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P17",
+      "rule_id": "R13",
+      "text": "((B ∧ F)->(B → F)) and ((A ∨ E)->(B ∧ F)). (B ∧ F) or (A ∨ E) is true. Conclusion?",
+      "ground_truth": "(B → F) or (B ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P18",
+      "rule_id": "R13",
+      "text": "((G ∨ B)->(D → C)) and ((G → C)->(G ∨ B)). (G ∨ B) or (G → C) is true. Conclusion?",
+      "ground_truth": "(D → C) or (G ∨ B)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P19",
+      "rule_id": "R13",
+      "text": "((E ∧ E)->(H ∨ C)) and ((C ∧ G)->(E ∧ E)). (E ∧ E) or (C ∧ G) is true. Conclusion?",
+      "ground_truth": "(H ∨ C) or (E ∧ E)",
+      "distractors": []
+    },
+    {
+      "id": "R13_T2_P20",
+      "rule_id": "R13",
+      "text": "((G ∨ E)->(B ∨ F)) and ((D ∨ H)->(G ∨ E)). (G ∨ E) or (D ∨ H) is true. Conclusion?",
+      "ground_truth": "(B ∨ F) or (G ∨ E)",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P01",
+      "rule_id": "R14",
+      "text": "(D → H) -> (C ∧ E). Absorb.",
+      "ground_truth": "(D → H) -> ((D → H) and (C ∧ E))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P02",
+      "rule_id": "R14",
+      "text": "(G → F) -> (F ∨ G). Absorb.",
+      "ground_truth": "(G → F) -> ((G → F) and (F ∨ G))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P03",
+      "rule_id": "R14",
+      "text": "(D ∨ H) -> (C ∨ G). Absorb.",
+      "ground_truth": "(D ∨ H) -> ((D ∨ H) and (C ∨ G))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P04",
+      "rule_id": "R14",
+      "text": "(D → F) -> (E ∨ G). Absorb.",
+      "ground_truth": "(D → F) -> ((D → F) and (E ∨ G))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P05",
+      "rule_id": "R14",
+      "text": "(C → A) -> (H → D). Absorb.",
+      "ground_truth": "(C → A) -> ((C → A) and (H → D))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P06",
+      "rule_id": "R14",
+      "text": "(H ∨ C) -> (E → D). Absorb.",
+      "ground_truth": "(H ∨ C) -> ((H ∨ C) and (E → D))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P07",
+      "rule_id": "R14",
+      "text": "(B ∨ H) -> (H → G). Absorb.",
+      "ground_truth": "(B ∨ H) -> ((B ∨ H) and (H → G))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P08",
+      "rule_id": "R14",
+      "text": "(B ∨ B) -> (F ∧ C). Absorb.",
+      "ground_truth": "(B ∨ B) -> ((B ∨ B) and (F ∧ C))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P09",
+      "rule_id": "R14",
+      "text": "(G ∨ B) -> (B ∧ E). Absorb.",
+      "ground_truth": "(G ∨ B) -> ((G ∨ B) and (B ∧ E))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P10",
+      "rule_id": "R14",
+      "text": "(G ∨ H) -> (C → F). Absorb.",
+      "ground_truth": "(G ∨ H) -> ((G ∨ H) and (C → F))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P11",
+      "rule_id": "R14",
+      "text": "(G ∨ B) -> (C ∧ F). Absorb.",
+      "ground_truth": "(G ∨ B) -> ((G ∨ B) and (C ∧ F))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P12",
+      "rule_id": "R14",
+      "text": "(H ∧ F) -> (B ∨ H). Absorb.",
+      "ground_truth": "(H ∧ F) -> ((H ∧ F) and (B ∨ H))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P13",
+      "rule_id": "R14",
+      "text": "(E ∧ A) -> (B → A). Absorb.",
+      "ground_truth": "(E ∧ A) -> ((E ∧ A) and (B → A))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P14",
+      "rule_id": "R14",
+      "text": "(D → C) -> (C → F). Absorb.",
+      "ground_truth": "(D → C) -> ((D → C) and (C → F))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P15",
+      "rule_id": "R14",
+      "text": "(G ∧ C) -> (G ∧ G). Absorb.",
+      "ground_truth": "(G ∧ C) -> ((G ∧ C) and (G ∧ G))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P16",
+      "rule_id": "R14",
+      "text": "(G → G) -> (D ∧ D). Absorb.",
+      "ground_truth": "(G → G) -> ((G → G) and (D ∧ D))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P17",
+      "rule_id": "R14",
+      "text": "(C → F) -> (D ∨ H). Absorb.",
+      "ground_truth": "(C → F) -> ((C → F) and (D ∨ H))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P18",
+      "rule_id": "R14",
+      "text": "(F → G) -> (G → B). Absorb.",
+      "ground_truth": "(F → G) -> ((F → G) and (G → B))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P19",
+      "rule_id": "R14",
+      "text": "(C → E) -> (B → C). Absorb.",
+      "ground_truth": "(C → E) -> ((C → E) and (B → C))",
+      "distractors": []
+    },
+    {
+      "id": "R14_T2_P20",
+      "rule_id": "R14",
+      "text": "(B ∨ C) -> (C ∨ G). Absorb.",
+      "ground_truth": "(B ∨ C) -> ((B ∨ C) and (C ∨ G))",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P01",
+      "rule_id": "R15",
+      "text": "(C ∨ H) -> (C → C). Rewrite as disjunction.",
+      "ground_truth": "Not (C ∨ H) or (C → C)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P02",
+      "rule_id": "R15",
+      "text": "(F ∧ H) -> (A → F). Rewrite as disjunction.",
+      "ground_truth": "Not (F ∧ H) or (A → F)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P03",
+      "rule_id": "R15",
+      "text": "(G ∧ H) -> (H ∨ G). Rewrite as disjunction.",
+      "ground_truth": "Not (G ∧ H) or (H ∨ G)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P04",
+      "rule_id": "R15",
+      "text": "(B ∧ A) -> (E ∧ A). Rewrite as disjunction.",
+      "ground_truth": "Not (B ∧ A) or (E ∧ A)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P05",
+      "rule_id": "R15",
+      "text": "(H ∧ H) -> (B → B). Rewrite as disjunction.",
+      "ground_truth": "Not (H ∧ H) or (B → B)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P06",
+      "rule_id": "R15",
+      "text": "(H → D) -> (B ∨ D). Rewrite as disjunction.",
+      "ground_truth": "Not (H → D) or (B ∨ D)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P07",
+      "rule_id": "R15",
+      "text": "(F ∨ B) -> (B ∨ D). Rewrite as disjunction.",
+      "ground_truth": "Not (F ∨ B) or (B ∨ D)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P08",
+      "rule_id": "R15",
+      "text": "(C ∧ D) -> (A ∧ F). Rewrite as disjunction.",
+      "ground_truth": "Not (C ∧ D) or (A ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P09",
+      "rule_id": "R15",
+      "text": "(E ∨ E) -> (E → B). Rewrite as disjunction.",
+      "ground_truth": "Not (E ∨ E) or (E → B)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P10",
+      "rule_id": "R15",
+      "text": "(C ∨ C) -> (C ∧ F). Rewrite as disjunction.",
+      "ground_truth": "Not (C ∨ C) or (C ∧ F)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P11",
+      "rule_id": "R15",
+      "text": "(E ∧ G) -> (H ∨ B). Rewrite as disjunction.",
+      "ground_truth": "Not (E ∧ G) or (H ∨ B)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P12",
+      "rule_id": "R15",
+      "text": "(E → F) -> (H ∨ F). Rewrite as disjunction.",
+      "ground_truth": "Not (E → F) or (H ∨ F)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P13",
+      "rule_id": "R15",
+      "text": "(H → F) -> (G ∧ D). Rewrite as disjunction.",
+      "ground_truth": "Not (H → F) or (G ∧ D)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P14",
+      "rule_id": "R15",
+      "text": "(F ∨ E) -> (C ∨ H). Rewrite as disjunction.",
+      "ground_truth": "Not (F ∨ E) or (C ∨ H)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P15",
+      "rule_id": "R15",
+      "text": "(H ∧ A) -> (C ∧ H). Rewrite as disjunction.",
+      "ground_truth": "Not (H ∧ A) or (C ∧ H)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P16",
+      "rule_id": "R15",
+      "text": "(C ∧ E) -> (E ∧ B). Rewrite as disjunction.",
+      "ground_truth": "Not (C ∧ E) or (E ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P17",
+      "rule_id": "R15",
+      "text": "(F ∧ C) -> (G ∧ E). Rewrite as disjunction.",
+      "ground_truth": "Not (F ∧ C) or (G ∧ E)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P18",
+      "rule_id": "R15",
+      "text": "(B → B) -> (D ∧ H). Rewrite as disjunction.",
+      "ground_truth": "Not (B → B) or (D ∧ H)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P19",
+      "rule_id": "R15",
+      "text": "(H → A) -> (F ∧ B). Rewrite as disjunction.",
+      "ground_truth": "Not (H → A) or (F ∧ B)",
+      "distractors": []
+    },
+    {
+      "id": "R15_T2_P20",
+      "rule_id": "R15",
+      "text": "(D ∧ G) -> (B ∧ B). Rewrite as disjunction.",
+      "ground_truth": "Not (D ∧ G) or (B ∧ B)",
+      "distractors": []
+    }
+  ]
+}
